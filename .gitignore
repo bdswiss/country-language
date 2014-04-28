@@ -1,0 +1,7 @@
+node_modules
+__MACOSX
+.DS_Store
+.project
+.settings
+coverage.html
+lib-cov

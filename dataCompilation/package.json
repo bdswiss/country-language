@@ -1,0 +1,21 @@
+{
+  "name": "country-languages-compile",
+  "version": "0.1.0",
+  "description": "Compile languages and countries data.",
+  "main": "index.js",
+  "dependencies": {
+    "breeze-async": "~0.1.0",
+    "csv": "~0.3.7",
+    "underscore": "~1.6.0",
+    "underscore.string": "~2.3.3",
+    "jsdom": "~0.10.5"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "country",
+    "language",
+    "compile"
+  ],
+  "author": "Tassos Diamantidis <tassos@inruntime.com>",
+  "license": "MIT"
+}

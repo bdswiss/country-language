@@ -1,0 +1,20 @@
+- ISO639_codes.csv
+  Source: http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+          ("Partial ISO 639 table")
+  Description: List of languages.
+
+- ISO3166_codes.csv
+  Source: http://en.wikipedia.org/wiki/ISO_3166-1
+          ("Current codes")
+  Description: List of Countries.
+  Note: Special care is needed for [Numeric code] field when creating csv file from spreadsheet software. (Value is converted to number loosing leading zeros).
+
+- official_languages_list.txt
+  Source: http://en.wikipedia.org/wiki/List_of_official_languages
+          ("Official languages of sovereign countries")
+  Description: List of languages along with the countries where each language is official.
+
+  language_codes_ms.csv
+  Source: http://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx
+          ("Table of Language Culture Names, Codes, and ISO Values Method [C++]")
+  Description: List of Cultures

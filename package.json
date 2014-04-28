@@ -1,0 +1,21 @@
+{
+  "name": "country-languages",
+  "version": "0.1.0",
+  "description": "Query languages spoken to a country or countries where people speak a language.",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "underscore.deep": "~0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "country",
+    "language",
+    "native"
+  ],
+  "author": "Tassos Diamantidis <tassos@inruntime.com>",
+  "license": "MIT"
+}
