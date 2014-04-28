@@ -13,10 +13,6 @@ exports.getCountries = function () {
   return data.countries;
 };
 
-exports.getLanguageFamilies = function () {
-  return data.languageFamilies;
-};
-
 exports.getLanguages = function () {
   return data.languages;
 };

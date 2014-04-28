@@ -16,6 +16,20 @@
     "language",
     "native"
   ],
-  "author": "Tassos Diamantidis <tassos@inruntime.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bdswiss/country-language.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "author": {
+    "name": "Tassos Diamantidis",
+    "email": "tassos@inruntime.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bdswiss/country-language/issues",
+    "email": "opensource@bdswiss.com"
+  },
   "license": "MIT"
 }
