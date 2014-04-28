@@ -26,3 +26,6 @@ console.log(lib.getCountryMsLocales('in'));
 
 console.log('~~~~~~~~~~~~~ getLanguageMsLocales');
 console.log(lib.getLanguageMsLocales('en'));
+
+console.log('~~~~~~~~~~~~~ getLanguageFamilyMembers');
+console.log(JSON.stringify(lib.getLanguageFamilyMembers('Austronesian'), null, 2));

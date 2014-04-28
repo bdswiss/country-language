@@ -13,6 +13,10 @@ exports.getCountries = function () {
   return data.countries;
 };
 
+exports.getLanguageFamilies = function () {
+  return data.languageFamilies;
+};
+
 exports.getLanguages = function () {
   return data.languages;
 };
@@ -163,4 +167,33 @@ exports.getLanguageMsLocales = function (code, cb) {
     codes = language.langCultureMs;
   });
   return cb(null, codes);
+};
+
+exports.getLanguageFamilyMembers = function (family, cb) {
+  var languages = data.languages
+    , check
+    , members
+    , ret = [];
+
+  cb = cb || noop;
+
+  if ('string' !== typeof family) {
+    return cb('No language family provided');
+  }
+  family = family.toLowerCase();
+
+  check = _.find(data.languageFamilies, function (f) {
+    return f.toLowerCase() == family;
+  });
+  if (!check) {
+    return cb('There is no language family "' + family + '"');
+  }
+
+  members = _.filter(languages, function (l) {
+    return l.family.toLowerCase() == family;
+  });
+  _.each(members, function (l) {
+    ret.push(exports.getLanguage(l.iso639_3));
+  });
+  return cb(null, ret);
 };
