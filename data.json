@@ -70,6 +70,13 @@
       "family": "Indo-European",
       "countries": [
         "ZAF"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "af-ZA",
+          "displayName": "Afrikaans - South Africa",
+          "cultureCode": "0x0436"
+        }
       ]
     },
     {
@@ -99,6 +106,13 @@
       "family": "Indo-European",
       "countries": [
         "ALB"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "sq-AL",
+          "displayName": "Albanian - Albania",
+          "cultureCode": "0x041C"
+        }
       ]
     },
     {
@@ -154,6 +168,88 @@
         "TUN",
         "ARE",
         "YEM"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ar-DZ",
+          "displayName": "Arabic - Algeria",
+          "cultureCode": "0x1401"
+        },
+        {
+          "langCultureName": "ar-BH",
+          "displayName": "Arabic - Bahrain",
+          "cultureCode": "0x3C01"
+        },
+        {
+          "langCultureName": "ar-EG",
+          "displayName": "Arabic - Egypt",
+          "cultureCode": "0x0C01"
+        },
+        {
+          "langCultureName": "ar-IQ",
+          "displayName": "Arabic - Iraq",
+          "cultureCode": "0x0801"
+        },
+        {
+          "langCultureName": "ar-JO",
+          "displayName": "Arabic - Jordan",
+          "cultureCode": "0x2C01"
+        },
+        {
+          "langCultureName": "ar-KW",
+          "displayName": "Arabic - Kuwait",
+          "cultureCode": "0x3401"
+        },
+        {
+          "langCultureName": "ar-LB",
+          "displayName": "Arabic - Lebanon",
+          "cultureCode": "0x3001"
+        },
+        {
+          "langCultureName": "ar-LY",
+          "displayName": "Arabic - Libya",
+          "cultureCode": "0x1001"
+        },
+        {
+          "langCultureName": "ar-MA",
+          "displayName": "Arabic - Morocco",
+          "cultureCode": "0x1801"
+        },
+        {
+          "langCultureName": "ar-OM",
+          "displayName": "Arabic - Oman",
+          "cultureCode": "0x2001"
+        },
+        {
+          "langCultureName": "ar-QA",
+          "displayName": "Arabic - Qatar",
+          "cultureCode": "0x4001"
+        },
+        {
+          "langCultureName": "ar-SA",
+          "displayName": "Arabic - Saudi Arabia",
+          "cultureCode": "0x0401"
+        },
+        {
+          "langCultureName": "ar-SY",
+          "displayName": "Arabic - Syria",
+          "cultureCode": "0x2801"
+        },
+        {
+          "langCultureName": "ar-TN",
+          "displayName": "Arabic - Tunisia",
+          "cultureCode": "0x1C01"
+        },
+        {
+          "langCultureName": "ar-AE",
+          "displayName": "Arabic - United Arab Emirates",
+          "cultureCode": "0x3801"
+        },
+        {
+          "langCultureName": "ar-YE",
+          "displayName": "Arabic - Yemen",
+          "cultureCode": "0x2401"
+        }
       ]
     },
     {
@@ -183,6 +279,13 @@
       "family": "Indo-European",
       "countries": [
         "ARM"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "hy-AM",
+          "displayName": "Armenian - Armenia",
+          "cultureCode": "0x042B"
+        }
       ]
     },
     {
@@ -256,6 +359,18 @@
       "family": "Turkic",
       "countries": [
         "AZE"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "Cy-az-AZ",
+          "displayName": "Azeri (Cyrillic) - Azerbaijan",
+          "cultureCode": "0x082C"
+        },
+        {
+          "langCultureName": "Lt-az-AZ",
+          "displayName": "Azeri (Latin) - Azerbaijan",
+          "cultureCode": "0x042C"
+        }
       ]
     },
     {
@@ -296,7 +411,14 @@
         "euskara",
         "euskera"
       ],
-      "family": "Language isolate"
+      "family": "Language isolate",
+      "langCultureMs": [
+        {
+          "langCultureName": "eu-ES",
+          "displayName": "Basque - Basque",
+          "cultureCode": "0x042D"
+        }
+      ]
     },
     {
       "iso639_1": "be",
@@ -312,6 +434,13 @@
       "family": "Indo-European",
       "countries": [
         "BLR"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "be-BY",
+          "displayName": "Belarusian - Belarus",
+          "cultureCode": "0x0423"
+        }
       ]
     },
     {
@@ -422,6 +551,13 @@
       "family": "Indo-European",
       "countries": [
         "BGR"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "bg-BG",
+          "displayName": "Bulgarian - Bulgaria",
+          "cultureCode": "0x0402"
+        }
       ]
     },
     {
@@ -456,6 +592,13 @@
       "family": "Indo-European",
       "countries": [
         "AND"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ca-ES",
+          "displayName": "Catalan - Catalan",
+          "cultureCode": "0x0403"
+        }
       ]
     },
     {
@@ -523,6 +666,43 @@
         "CHN",
         "TWN",
         "SGP"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "zh-CN",
+          "displayName": "Chinese - China",
+          "cultureCode": "0x0804"
+        },
+        {
+          "langCultureName": "zh-HK",
+          "displayName": "Chinese - Hong Kong SAR",
+          "cultureCode": "0x0C04"
+        },
+        {
+          "langCultureName": "zh-MO",
+          "displayName": "Chinese - Macau SAR",
+          "cultureCode": "0x1404"
+        },
+        {
+          "langCultureName": "zh-SG",
+          "displayName": "Chinese - Singapore",
+          "cultureCode": "0x1004"
+        },
+        {
+          "langCultureName": "zh-TW",
+          "displayName": "Chinese - Taiwan",
+          "cultureCode": "0x0404"
+        },
+        {
+          "langCultureName": "zh-CHS",
+          "displayName": "Chinese (Simplified)",
+          "cultureCode": "0x0004"
+        },
+        {
+          "langCultureName": "zh-CHT",
+          "displayName": "Chinese (Traditional)",
+          "cultureCode": "0x7C04"
+        }
       ]
     },
     {
@@ -593,6 +773,13 @@
       "countries": [
         "HRV",
         "BIH"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "hr-HR",
+          "displayName": "Croatian - Croatia",
+          "cultureCode": "0x041A"
+        }
       ]
     },
     {
@@ -611,6 +798,13 @@
       "countries": [
         "CZE",
         "SVK"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "cs-CZ",
+          "displayName": "Czech - Czech Republic",
+          "cultureCode": "0x0405"
+        }
       ]
     },
     {
@@ -628,6 +822,13 @@
       "countries": [
         "DNK",
         "FRO"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "da-DK",
+          "displayName": "Danish - Denmark",
+          "cultureCode": "0x0406"
+        }
       ]
     },
     {
@@ -662,6 +863,13 @@
       "family": "Indo-European",
       "countries": [
         "MDV"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "div-MV",
+          "displayName": "Dhivehi - Maldives",
+          "cultureCode": "0x0465"
+        }
       ]
     },
     {
@@ -684,6 +892,18 @@
         "CUW",
         "SXM",
         "SUR"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "nl-BE",
+          "displayName": "Dutch - Belgium",
+          "cultureCode": "0x0813"
+        },
+        {
+          "langCultureName": "nl-NL",
+          "displayName": "Dutch - The Netherlands",
+          "cultureCode": "0x0413"
+        }
       ]
     },
     {
@@ -778,6 +998,73 @@
         "VUT",
         "ZMB",
         "ZWE"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "en-AU",
+          "displayName": "English - Australia",
+          "cultureCode": "0x0C09"
+        },
+        {
+          "langCultureName": "en-BZ",
+          "displayName": "English - Belize",
+          "cultureCode": "0x2809"
+        },
+        {
+          "langCultureName": "en-CA",
+          "displayName": "English - Canada",
+          "cultureCode": "0x1009"
+        },
+        {
+          "langCultureName": "en-CB",
+          "displayName": "English - Caribbean",
+          "cultureCode": "0x2409"
+        },
+        {
+          "langCultureName": "en-IE",
+          "displayName": "English - Ireland",
+          "cultureCode": "0x1809"
+        },
+        {
+          "langCultureName": "en-JM",
+          "displayName": "English - Jamaica",
+          "cultureCode": "0x2009"
+        },
+        {
+          "langCultureName": "en-NZ",
+          "displayName": "English - New Zealand",
+          "cultureCode": "0x1409"
+        },
+        {
+          "langCultureName": "en-PH",
+          "displayName": "English - Philippines",
+          "cultureCode": "0x3409"
+        },
+        {
+          "langCultureName": "en-ZA",
+          "displayName": "English - South Africa",
+          "cultureCode": "0x1C09"
+        },
+        {
+          "langCultureName": "en-TT",
+          "displayName": "English - Trinidad and Tobago",
+          "cultureCode": "0x2C09"
+        },
+        {
+          "langCultureName": "en-GB",
+          "displayName": "English - United Kingdom",
+          "cultureCode": "0x0809"
+        },
+        {
+          "langCultureName": "en-US",
+          "displayName": "English - United States",
+          "cultureCode": "0x0409"
+        },
+        {
+          "langCultureName": "en-ZW",
+          "displayName": "English - Zimbabwe",
+          "cultureCode": "0x3009"
+        }
       ]
     },
     {
@@ -808,6 +1095,13 @@
       "family": "Uralic",
       "countries": [
         "EST"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "et-EE",
+          "displayName": "Estonian - Estonia",
+          "cultureCode": "0x0425"
+        }
       ]
     },
     {
@@ -834,7 +1128,14 @@
       "nativeName": [
         "føroyskt"
       ],
-      "family": "Indo-European"
+      "family": "Indo-European",
+      "langCultureMs": [
+        {
+          "langCultureName": "fo-FO",
+          "displayName": "Faroese - Faroe Islands",
+          "cultureCode": "0x0438"
+        }
+      ]
     },
     {
       "iso639_1": "fj",
@@ -867,6 +1168,13 @@
       "family": "Uralic",
       "countries": [
         "FIN"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "fi-FI",
+          "displayName": "Finnish - Finland",
+          "cultureCode": "0x040B"
+        }
       ]
     },
     {
@@ -923,6 +1231,38 @@
         "CHE",
         "TGO",
         "VUT"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "fr-BE",
+          "displayName": "French - Belgium",
+          "cultureCode": "0x080C"
+        },
+        {
+          "langCultureName": "fr-CA",
+          "displayName": "French - Canada",
+          "cultureCode": "0x0C0C"
+        },
+        {
+          "langCultureName": "fr-FR",
+          "displayName": "French - France",
+          "cultureCode": "0x040C"
+        },
+        {
+          "langCultureName": "fr-LU",
+          "displayName": "French - Luxembourg",
+          "cultureCode": "0x140C"
+        },
+        {
+          "langCultureName": "fr-MC",
+          "displayName": "French - Monaco",
+          "cultureCode": "0x180C"
+        },
+        {
+          "langCultureName": "fr-CH",
+          "displayName": "French - Switzerland",
+          "cultureCode": "0x100C"
+        }
       ]
     },
     {
@@ -954,7 +1294,14 @@
       "nativeName": [
         "galego"
       ],
-      "family": "Indo-European"
+      "family": "Indo-European",
+      "langCultureMs": [
+        {
+          "langCultureName": "gl-ES",
+          "displayName": "Galician - Galician",
+          "cultureCode": "0x0456"
+        }
+      ]
     },
     {
       "iso639_1": "ka",
@@ -970,6 +1317,13 @@
       "family": "South Caucasian",
       "countries": [
         "GEO"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ka-GE",
+          "displayName": "Georgian - Georgia",
+          "cultureCode": "0x0437"
+        }
       ]
     },
     {
@@ -992,6 +1346,33 @@
         "LUX",
         "ITA",
         "CHE"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "de-AT",
+          "displayName": "German - Austria",
+          "cultureCode": "0x0C07"
+        },
+        {
+          "langCultureName": "de-DE",
+          "displayName": "German - Germany",
+          "cultureCode": "0x0407"
+        },
+        {
+          "langCultureName": "de-LI",
+          "displayName": "German - Liechtenstein",
+          "cultureCode": "0x1407"
+        },
+        {
+          "langCultureName": "de-LU",
+          "displayName": "German - Luxembourg",
+          "cultureCode": "0x1007"
+        },
+        {
+          "langCultureName": "de-CH",
+          "displayName": "German - Switzerland",
+          "cultureCode": "0x0807"
+        }
       ]
     },
     {
@@ -1009,6 +1390,13 @@
       "countries": [
         "GRC",
         "CYP"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "el-GR",
+          "displayName": "Greek - Greece",
+          "cultureCode": "0x0408"
+        }
       ]
     },
     {
@@ -1042,6 +1430,13 @@
       "family": "Indo-European",
       "countries": [
         "IND"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "gu-IN",
+          "displayName": "Gujarati - India",
+          "cultureCode": "0x0447"
+        }
       ]
     },
     {
@@ -1091,6 +1486,13 @@
       "family": "Afro-Asiatic",
       "countries": [
         "ISR"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "he-IL",
+          "displayName": "Hebrew - Israel",
+          "cultureCode": "0x040D"
+        }
       ]
     },
     {
@@ -1122,6 +1524,13 @@
       "countries": [
         "IND",
         "FJI"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "hi-IN",
+          "displayName": "Hindi - India",
+          "cultureCode": "0x0439"
+        }
       ]
     },
     {
@@ -1154,6 +1563,13 @@
       "family": "Uralic",
       "countries": [
         "HUN"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "hu-HU",
+          "displayName": "Hungarian - Hungary",
+          "cultureCode": "0x040E"
+        }
       ]
     },
     {
@@ -1183,6 +1599,13 @@
       "family": "Austronesian",
       "countries": [
         "IDN"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "id-ID",
+          "displayName": "Indonesian - Indonesia",
+          "cultureCode": "0x0421"
+        }
       ]
     },
     {
@@ -1271,6 +1694,13 @@
       "family": "Indo-European",
       "countries": [
         "ISL"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "is-IS",
+          "displayName": "Icelandic - Iceland",
+          "cultureCode": "0x040F"
+        }
       ]
     },
     {
@@ -1292,6 +1722,18 @@
         "SVN",
         "CHE",
         "VAT"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "it-IT",
+          "displayName": "Italian - Italy",
+          "cultureCode": "0x0410"
+        },
+        {
+          "langCultureName": "it-CH",
+          "displayName": "Italian - Switzerland",
+          "cultureCode": "0x0810"
+        }
       ]
     },
     {
@@ -1321,6 +1763,13 @@
       "family": "Japonic",
       "countries": [
         "JPN"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ja-JP",
+          "displayName": "Japanese - Japan",
+          "cultureCode": "0x0411"
+        }
       ]
     },
     {
@@ -1362,7 +1811,14 @@
       "nativeName": [
         "ಕನ್ನಡ"
       ],
-      "family": "Dravidian"
+      "family": "Dravidian",
+      "langCultureMs": [
+        {
+          "langCultureName": "kn-IN",
+          "displayName": "Kannada - India",
+          "cultureCode": "0x044B"
+        }
+      ]
     },
     {
       "iso639_1": "kr",
@@ -1405,6 +1861,13 @@
       "family": "Turkic",
       "countries": [
         "KAZ"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "kk-KZ",
+          "displayName": "Kazakh - Kazakhstan",
+          "cultureCode": "0x043F"
+        }
       ]
     },
     {
@@ -1470,6 +1933,13 @@
       "family": "Turkic",
       "countries": [
         "KGZ"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ky-KZ",
+          "displayName": "Kyrgyz - Kazakhstan",
+          "cultureCode": "0x0440"
+        }
       ]
     },
     {
@@ -1517,6 +1987,13 @@
       "countries": [
         "PRK",
         "KOR"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ko-KR",
+          "displayName": "Korean - Korea",
+          "cultureCode": "0x0412"
+        }
       ]
     },
     {
@@ -1659,6 +2136,13 @@
       "family": "Indo-European",
       "countries": [
         "LTU"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "lt-LT",
+          "displayName": "Lithuanian - Lithuania",
+          "cultureCode": "0x0427"
+        }
       ]
     },
     {
@@ -1691,6 +2175,13 @@
       "family": "Indo-European",
       "countries": [
         "LVA"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "lv-LV",
+          "displayName": "Latvian - Latvia",
+          "cultureCode": "0x0426"
+        }
       ]
     },
     {
@@ -1721,6 +2212,13 @@
       "family": "Indo-European",
       "countries": [
         "MKD"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "mk-MK",
+          "displayName": "Macedonian (FYROM)",
+          "cultureCode": "0x042F"
+        }
       ]
     },
     {
@@ -1757,6 +2255,18 @@
         "BRN",
         "SGP",
         "IDN"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ms-BN",
+          "displayName": "Malay - Brunei",
+          "cultureCode": "0x083E"
+        },
+        {
+          "langCultureName": "ms-MY",
+          "displayName": "Malay - Malaysia",
+          "cultureCode": "0x043E"
+        }
       ]
     },
     {
@@ -1815,7 +2325,14 @@
       "nativeName": [
         "मराठी"
       ],
-      "family": "Indo-European"
+      "family": "Indo-European",
+      "langCultureMs": [
+        {
+          "langCultureName": "mr-IN",
+          "displayName": "Marathi - India",
+          "cultureCode": "0x044E"
+        }
+      ]
     },
     {
       "iso639_1": "mh",
@@ -1844,6 +2361,13 @@
       "family": "Mongolic",
       "countries": [
         "MNG"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "mn-MN",
+          "displayName": "Mongolian - Mongolia",
+          "cultureCode": "0x0450"
+        }
       ]
     },
     {
@@ -1885,7 +2409,14 @@
       "nativeName": [
         "Norsk bokmål"
       ],
-      "family": "Indo-European"
+      "family": "Indo-European",
+      "langCultureMs": [
+        {
+          "langCultureName": "nb-NO",
+          "displayName": "Norwegian (Bokmål) - Norway",
+          "cultureCode": "0x0414"
+        }
+      ]
     },
     {
       "iso639_1": "nd",
@@ -1960,7 +2491,14 @@
       "nativeName": [
         "Norsk nynorsk"
       ],
-      "family": "Indo-European"
+      "family": "Indo-European",
+      "langCultureMs": [
+        {
+          "langCultureName": "nn-NO",
+          "displayName": "Norwegian (Nynorsk) - Norway",
+          "cultureCode": "0x0814"
+        }
+      ]
     },
     {
       "iso639_1": "no",
@@ -2107,6 +2645,13 @@
       "family": "Indo-European",
       "countries": [
         "IND"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "pa-IN",
+          "displayName": "Punjabi - India",
+          "cultureCode": "0x0446"
+        }
       ]
     },
     {
@@ -2139,6 +2684,13 @@
         "IRN",
         "AFG",
         "TJK"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "fa-IR",
+          "displayName": "Farsi - Iran",
+          "cultureCode": "0x0429"
+        }
       ]
     },
     {
@@ -2156,6 +2708,13 @@
       "family": "Indo-European",
       "countries": [
         "POL"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "pl-PL",
+          "displayName": "Polish - Poland",
+          "cultureCode": "0x0415"
+        }
       ]
     },
     {
@@ -2198,6 +2757,18 @@
         "MOZ",
         "PRT",
         "STP"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "pt-BR",
+          "displayName": "Portuguese - Brazil",
+          "cultureCode": "0x0416"
+        },
+        {
+          "langCultureName": "pt-PT",
+          "displayName": "Portuguese - Portugal",
+          "cultureCode": "0x0816"
+        }
       ]
     },
     {
@@ -2265,6 +2836,13 @@
       "countries": [
         "ROU",
         "MDA"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ro-RO",
+          "displayName": "Romanian - Romania",
+          "cultureCode": "0x0418"
+        }
       ]
     },
     {
@@ -2285,6 +2863,13 @@
         "KAZ",
         "KGZ",
         "TJK"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ru-RU",
+          "displayName": "Russian - Russia",
+          "cultureCode": "0x0419"
+        }
       ]
     },
     {
@@ -2298,7 +2883,14 @@
       "nativeName": [
         "संस्कृतम्"
       ],
-      "family": "Indo-European"
+      "family": "Indo-European",
+      "langCultureMs": [
+        {
+          "langCultureName": "sa-IN",
+          "displayName": "Sanskrit - India",
+          "cultureCode": "0x044F"
+        }
+      ]
     },
     {
       "iso639_1": "sc",
@@ -2384,6 +2976,18 @@
       "countries": [
         "SRB",
         "BIH"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "Cy-sr-SP",
+          "displayName": "Serbian (Cyrillic) - Serbia",
+          "cultureCode": "0x0C1A"
+        },
+        {
+          "langCultureName": "Lt-sr-SP",
+          "displayName": "Serbian (Latin) - Serbia",
+          "cultureCode": "0x081A"
+        }
       ]
     },
     {
@@ -2449,6 +3053,13 @@
       "countries": [
         "SVK",
         "CZE"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "sk-SK",
+          "displayName": "Slovak - Slovakia",
+          "cultureCode": "0x041B"
+        }
       ]
     },
     {
@@ -2466,6 +3077,13 @@
       "family": "Indo-European",
       "countries": [
         "SVN"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "sl-SI",
+          "displayName": "Slovenian - Slovenia",
+          "cultureCode": "0x0424"
+        }
       ]
     },
     {
@@ -2539,6 +3157,103 @@
         "URY",
         "VEN",
         "ESH"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "es-AR",
+          "displayName": "Spanish - Argentina",
+          "cultureCode": "0x2C0A"
+        },
+        {
+          "langCultureName": "es-BO",
+          "displayName": "Spanish - Bolivia",
+          "cultureCode": "0x400A"
+        },
+        {
+          "langCultureName": "es-CL",
+          "displayName": "Spanish - Chile",
+          "cultureCode": "0x340A"
+        },
+        {
+          "langCultureName": "es-CO",
+          "displayName": "Spanish - Colombia",
+          "cultureCode": "0x240A"
+        },
+        {
+          "langCultureName": "es-CR",
+          "displayName": "Spanish - Costa Rica",
+          "cultureCode": "0x140A"
+        },
+        {
+          "langCultureName": "es-DO",
+          "displayName": "Spanish - Dominican Republic",
+          "cultureCode": "0x1C0A"
+        },
+        {
+          "langCultureName": "es-EC",
+          "displayName": "Spanish - Ecuador",
+          "cultureCode": "0x300A"
+        },
+        {
+          "langCultureName": "es-SV",
+          "displayName": "Spanish - El Salvador",
+          "cultureCode": "0x440A"
+        },
+        {
+          "langCultureName": "es-GT",
+          "displayName": "Spanish - Guatemala",
+          "cultureCode": "0x100A"
+        },
+        {
+          "langCultureName": "es-HN",
+          "displayName": "Spanish - Honduras",
+          "cultureCode": "0x480A"
+        },
+        {
+          "langCultureName": "es-MX",
+          "displayName": "Spanish - Mexico",
+          "cultureCode": "0x080A"
+        },
+        {
+          "langCultureName": "es-NI",
+          "displayName": "Spanish - Nicaragua",
+          "cultureCode": "0x4C0A"
+        },
+        {
+          "langCultureName": "es-PA",
+          "displayName": "Spanish - Panama",
+          "cultureCode": "0x180A"
+        },
+        {
+          "langCultureName": "es-PY",
+          "displayName": "Spanish - Paraguay",
+          "cultureCode": "0x3C0A"
+        },
+        {
+          "langCultureName": "es-PE",
+          "displayName": "Spanish - Peru",
+          "cultureCode": "0x280A"
+        },
+        {
+          "langCultureName": "es-PR",
+          "displayName": "Spanish - Puerto Rico",
+          "cultureCode": "0x500A"
+        },
+        {
+          "langCultureName": "es-ES",
+          "displayName": "Spanish - Spain",
+          "cultureCode": "0x0C0A"
+        },
+        {
+          "langCultureName": "es-UY",
+          "displayName": "Spanish - Uruguay",
+          "cultureCode": "0x380A"
+        },
+        {
+          "langCultureName": "es-VE",
+          "displayName": "Spanish - Venezuela",
+          "cultureCode": "0x200A"
+        }
       ]
     },
     {
@@ -2571,6 +3286,13 @@
         "KEN",
         "TZA",
         "UGA"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "sw-KE",
+          "displayName": "Swahili - Kenya",
+          "cultureCode": "0x0441"
+        }
       ]
     },
     {
@@ -2606,6 +3328,18 @@
         "SWE",
         "FIN",
         "ALA"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "sv-FI",
+          "displayName": "Swedish - Finland",
+          "cultureCode": "0x081D"
+        },
+        {
+          "langCultureName": "sv-SE",
+          "displayName": "Swedish - Sweden",
+          "cultureCode": "0x041D"
+        }
       ]
     },
     {
@@ -2626,6 +3360,13 @@
         "LKA",
         "MYS",
         "MUS"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ta-IN",
+          "displayName": "Tamil - India",
+          "cultureCode": "0x0449"
+        }
       ]
     },
     {
@@ -2639,7 +3380,14 @@
       "nativeName": [
         "తెలుగు"
       ],
-      "family": "Dravidian"
+      "family": "Dravidian",
+      "langCultureMs": [
+        {
+          "langCultureName": "te-IN",
+          "displayName": "Telugu - India",
+          "cultureCode": "0x044A"
+        }
+      ]
     },
     {
       "iso639_1": "tg",
@@ -2673,6 +3421,13 @@
       "family": "Tai–Kadai",
       "countries": [
         "THA"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "th-TH",
+          "displayName": "Thai - Thailand",
+          "cultureCode": "0x041E"
+        }
       ]
     },
     {
@@ -2800,6 +3555,13 @@
       "countries": [
         "TUR",
         "CYP"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "tr-TR",
+          "displayName": "Turkish - Turkey",
+          "cultureCode": "0x041F"
+        }
       ]
     },
     {
@@ -2830,7 +3592,14 @@
         "татар теле",
         "tatar tele"
       ],
-      "family": "Turkic"
+      "family": "Turkic",
+      "langCultureMs": [
+        {
+          "langCultureName": "tt-RU",
+          "displayName": "Tatar - Russia",
+          "cultureCode": "0x0444"
+        }
+      ]
     },
     {
       "iso639_1": "tw",
@@ -2887,6 +3656,13 @@
       "family": "Indo-European",
       "countries": [
         "UKR"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "uk-UA",
+          "displayName": "Ukrainian - Ukraine",
+          "cultureCode": "0x0422"
+        }
       ]
     },
     {
@@ -2904,6 +3680,13 @@
       "countries": [
         "PAK",
         "FJI"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "ur-PK",
+          "displayName": "Urdu - Pakistan",
+          "cultureCode": "0x0420"
+        }
       ]
     },
     {
@@ -2922,6 +3705,18 @@
       "family": "Turkic",
       "countries": [
         "UZB"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "Cy-uz-UZ",
+          "displayName": "Uzbek (Cyrillic) - Uzbekistan",
+          "cultureCode": "0x0843"
+        },
+        {
+          "langCultureName": "Lt-uz-UZ",
+          "displayName": "Uzbek (Latin) - Uzbekistan",
+          "cultureCode": "0x0443"
+        }
       ]
     },
     {
@@ -2954,6 +3749,13 @@
       "family": "Austroasiatic",
       "countries": [
         "VNM"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "vi-VN",
+          "displayName": "Vietnamese - Vietnam",
+          "cultureCode": "0x042A"
+        }
       ]
     },
     {

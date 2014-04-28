@@ -310,37 +310,59 @@ function parseCountryLanguages (next) {
 
 function parseCountryLanguageCultures (next) {
   var objCountries = obj.countries
+    , objLanguages = obj.languages
     , countryIndex
+    , languageIndex
     , langCultureName
     , countryCode
+    , languageCode
     , filePath = __dirname + '/dataSources/language_codes_ms.csv';
 
   csv()
   .from.path(filePath, { delimiter: ',', escape: '"' })
   .on('record', function (row, index) {
-    langCultureName = row[0].split('-');
-    if (row[0] == 'zh-CHS' || row[0] == 'zh-CHT') {
-      countryCode = 'CN';
-    } else if (langCultureName[langCultureName.length - 1] == 'SP') {
-      countryCode = 'RS';
-    } else {
-      countryCode = langCultureName[langCultureName.length - 1].substring(0, 2);
-    }
-    langCultureName = langCultureName.join('-');
-    countryIndex = -1;
-    for (var j = 0; j < objCountries.length; j++) {
-      if (objCountries[j].code_2 == countryCode) {
-        countryIndex = j;
-        break;
+    if (index > 0) {
+      langCultureName = row[0].split('-');
+      if (row[0] == 'zh-CHS' || row[0] == 'zh-CHT') {
+        countryCode = 'CN';
+      } else if (langCultureName[langCultureName.length - 1] == 'SP') {
+        countryCode = 'RS';
+      } else {
+        countryCode = langCultureName[langCultureName.length - 1].substring(0, 2);
       }
-    }
-    if (countryIndex > -1) {
-      objCountries[countryIndex].langCultureMs = objCountries[countryIndex].langCultureMs || [];
-      objCountries[countryIndex].langCultureMs.push({
-          langCultureName: langCultureName
-        , displayName: row[1]
-        , cultureCode: row[2]
-      });
+      languageCode = langCultureName[langCultureName.length - 2].toLowerCase();
+      langCultureName = langCultureName.join('-');
+      countryIndex = -1;
+      for (var j = 0; j < objCountries.length; j++) {
+        if (objCountries[j].code_2 == countryCode) {
+          countryIndex = j;
+          break;
+        }
+      }
+      if (countryIndex > -1) {
+        objCountries[countryIndex].langCultureMs = objCountries[countryIndex].langCultureMs || [];
+        objCountries[countryIndex].langCultureMs.push({
+            langCultureName: langCultureName
+          , displayName: row[1]
+          , cultureCode: row[2]
+        });
+      }
+      languageIndex = -1;
+      var codeFld = languageCode.length == 2 ? 'iso639_1' : 'iso639_3';
+      for (var j= 0; j < objLanguages.length; j++) {
+        if (objLanguages[j][codeFld] == languageCode) {
+          languageIndex = j;
+          break;
+        }
+      }
+      if (languageIndex > -1) {
+        objLanguages[languageIndex].langCultureMs = objLanguages[languageIndex].langCultureMs || [];
+        objLanguages[languageIndex].langCultureMs.push({
+            langCultureName: langCultureName
+          , displayName: row[1]
+          , cultureCode: row[2]
+        });
+      }
     }
   })
   .on('end', function (count) {
