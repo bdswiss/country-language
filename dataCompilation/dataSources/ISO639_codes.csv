@@ -17,7 +17,7 @@ Turkic,Bashkir,башҡорт теле,ba,bak,bak,bak,,
 Language isolate,Basque,"euskara, euskera",eu,eus,baq,eus,,
 Indo-European,Belarusian,беларуская мова,be,bel,bel,bel,,
 Indo-European,"Bengali, Bangla",বাংলা,bn,ben,ben,ben,,
-Afro-Asiatic,Berber,"Tamaziɣt, Tamazight, ⵜⴰⵎⴰⵣⵉⵖⵜ",,ber,ber,ber,
+Afro-Asiatic,Berber,"Tamaziɣt, Tamazight, ⵜⴰⵎⴰⵣⵉⵖⵜ",,ber,ber,ber,,
 Indo-European,Bihari,भोजपुरी,bh,bih,bih,,,"Collective language code for Bhojpuri, Magahi, and Maithili"
 Creole,Bislama,Bislama,bi,bis,bis,bis,,
 Indo-European,Bosnian,bosanski jezik,bs,bos,bos,bos,boss,
@@ -36,7 +36,7 @@ Algonquian,Cree,ᓀᐦᐃᔭᐍᐏᐣ,cr,cre,cre,cre + 6,,macrolanguage
 Indo-European,Croatian,hrvatski jezik,hr,hrv,hrv,hrv,,
 Indo-European,Czech,"čeština, český jazyk",cs,ces,cze,ces,,
 Indo-European,Danish,dansk,da,dan,dan,dan,,
-Indo-European,Dari,فارسی دری,,,,prs,
+Indo-European,Dari,فارسی دری,,,,prs,,
 Indo-European,"Divehi, Dhivehi, Maldivian",ދިވެހި,dv,div,div,div,,
 Indo-European,Dutch,"Nederlands, Vlaams",nl,nld,dut,nld,,
 Sino-Tibetan,Dzongkha,རྫོང་ཁ,dz,dzo,dzo,dzo,,
@@ -64,7 +64,7 @@ Austronesian,Hiri Motu,Hiri Motu,ho,hmo,hmo,hmo,,
 Uralic,Hungarian,magyar,hu,hun,hun,hun,,
 Constructed,Interlingua,Interlingua,ia,ina,ina,ina,,constructed by International Auxiliary Language Association
 Austronesian,Indonesian,Bahasa Indonesia,id,ind,ind,ind,,Covered by macrolanguage [ms/msa]
-Constructed,Interlingue,Originally called Occidental; then Interlingue after WWII,ie,ile,ile,ile,,"constructed by Edgar de Wahl, first published in 1922"
+Constructed,Interlingue,Interlingue,ie,ile,ile,ile,,"constructed by Edgar de Wahl, first published in 1922"
 Indo-European,Irish,Gaeilge,ga,gle,gle,gle,,
 Niger–Congo,Igbo,Asụsụ Igbo,ig,ibo,ibo,ibo,,
 Eskimo–Aleut,Inupiaq,"Iñupiaq, Iñupiatun",ik,ipk,ipk,ipk + 2,,macrolanguage
@@ -111,7 +111,7 @@ Austronesian,Nauru,Ekakairũ Naoero,na,nau,nau,nau,,
 Dené–Yeniseian,"Navajo, Navaho","Diné bizaad, Dinékʼehǰí",nv,nav,nav,nav,,
 Indo-European,Norwegian Bokmål,Norsk bokmål,nb,nob,nob,nob,,Covered by macrolanguage [no/nor]
 Niger–Congo,Northern Ndebele,isiNdebele,nd,nde,nde,nde,,
-Niger-Congo,Northern Sotho,Sesotho sa Leboa,,nso,nso,nso,
+Niger-Congo,Northern Sotho,Sesotho sa Leboa,,nso,nso,nso,,
 Indo-European,Nepali,नेपाली,ne,nep,nep,nep,,
 Niger–Congo,Ndonga,Owambo,ng,ndo,ndo,ndo,,
 Indo-European,Norwegian Nynorsk,Norsk nynorsk,nn,nno,nno,nno,,Covered by macrolanguage [no/nor]
