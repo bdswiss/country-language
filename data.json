@@ -5540,6 +5540,18 @@
       "name": "Serbia",
       "languages": [
         "srp"
+      ],
+      "langCultureMs": [
+        {
+          "langCultureName": "Cy-sr-SP",
+          "displayName": "Serbian (Cyrillic) - Serbia",
+          "cultureCode": "0x0C1A"
+        },
+        {
+          "langCultureName": "Lt-sr-SP",
+          "displayName": "Serbian (Latin) - Serbia",
+          "cultureCode": "0x081A"
+        }
       ]
     },
     {

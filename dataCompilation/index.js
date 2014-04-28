@@ -321,6 +321,8 @@ function parseCountryLanguageCultures (next) {
     langCultureName = row[0].split('-');
     if (row[0] == 'zh-CHS' || row[0] == 'zh-CHT') {
       countryCode = 'CN';
+    } else if (langCultureName[langCultureName.length - 1] == 'SP') {
+      countryCode = 'RS';
     } else {
       countryCode = langCultureName[langCultureName.length - 1].substring(0, 2);
     }
@@ -333,7 +335,7 @@ function parseCountryLanguageCultures (next) {
       }
     }
     if (countryIndex > -1) {
-      if (!objCountries[countryIndex].langCultureMs) objCountries[countryIndex].langCultureMs = [];
+      objCountries[countryIndex].langCultureMs = objCountries[countryIndex].langCultureMs || [];
       objCountries[countryIndex].langCultureMs.push({
           langCultureName: langCultureName
         , displayName: row[1]
