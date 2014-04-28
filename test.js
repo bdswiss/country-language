@@ -21,3 +21,8 @@ console.log(lib.getCountryLanguages('IN'));
 console.log('~~~~~~~~~~~~~ getLanguageCountries');
 console.log(lib.getLanguageCountries('en'));
 
+console.log('~~~~~~~~~~~~~ getCountryMsLocales');
+console.log(lib.getCountryMsLocales('in'));
+
+console.log('~~~~~~~~~~~~~ getLanguageMsLocales');
+console.log(lib.getLanguageMsLocales('en'));

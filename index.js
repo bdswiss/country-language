@@ -140,3 +140,27 @@ exports.getLanguageCountries = function (code, cb) {
   });
   return cb(null, codes);
 };
+
+exports.getCountryMsLocales = function (code, cb) {
+  var codes = [];
+
+  cb = cb || noop;
+
+  exports.getCountry(code, function (err, country) {
+    if (err) return cb(err);
+    codes = country.langCultureMs;
+  });
+  return cb(null, codes);
+};
+
+exports.getLanguageMsLocales = function (code, cb) {
+  var codes = [];
+
+  cb = cb || noop;
+
+  exports.getLanguage(code, function (err, language) {
+    if (err) return cb(err);
+    codes = language.langCultureMs;
+  });
+  return cb(null, codes);
+};
