@@ -16,7 +16,7 @@ country-language
 Once you require `country-language`, the following API will be available.
 
 ```js
-var countryLanguage = require('country-language');
+var CountryLanguage = require('country-language');
 ```
 
 ### .getCountry (code, cb)
@@ -53,6 +53,15 @@ Each Microsoft© language culture object in ```langCultureMs``` property icludes
 * ```displayName```: language culture dispaly name
 * ```cultureCode```: language culture code
 
+```js
+CountryLanguage.getCountry('GB', function (err, country) {
+  if (err) {
+    console.log(err);
+  } else {
+    var languagesInGB = country.languages;
+  }
+});
+```
 
 ### .getLanguage (code, cb)
 
@@ -64,6 +73,15 @@ Each Microsoft© language culture object in ```langCultureMs``` property icludes
 Language code can be either iso639-1, iso639-2, iso639-2en or iso639-3 code.
 Contents of the returned language object are described in **```.getCountry```** method.
 
+```js
+CountryLanguage.getLanguage('en', function (err, language) {
+  if (err) {
+    console.log(err);
+  } else {
+    var countriesSpeakingEN = language.countries;
+  }
+});
+```
 
 ### .getCountryLanguages (code, cb)
 
@@ -79,6 +97,17 @@ Each language object contains the following info:
 * ```iso639_2```: language iso639-2 code with some codes derived from English names rather than native names of languages (3 letters)
 * ```iso639_3```: language iso639-3 code (3 letters)
 
+```js
+CountryLanguage.getCountryLanguages('GB', function (err, languages) {
+  if (err) {
+    console.log(err);
+  } else {
+    languages.forEach(function (languageCodes) {
+      console.log(languageCodes.iso639_1);
+    });
+  }
+});
+```
 
 ### .getLanguageCountries (code, cb)
 
@@ -94,6 +123,17 @@ Each Country object contains the following info:
 * ```code_3```: Country alpha-3 code (3 letters)
 * ```numCode```: Country numeric code
 
+```js
+CountryLanguage.getLanguageCountries('en', function (err, countries) {
+  if (err) {
+    console.log(err);
+  } else {
+    countries.forEach(function (countryCodes) {
+      console.log(countryCodes.code_3);
+    });
+  }
+});
+```
 
 ### .getCountryMsLocales (code, cb)
 
@@ -105,6 +145,17 @@ Each Country object contains the following info:
 Country code can be either an Alpha-2 or Alpha-3 code.
 Contents of each Language Culture object are described in **```.getCountry```** method.
 
+```js
+CountryLanguage.getCountryMsLocales('GB', function (err, locales) {
+  if (err) {
+    console.log(err);
+  } else {
+    locales.forEach(function (locale) {
+      console.log(locale.langCultureName);
+    });
+  }
+});
+```
 
 ### .getLanguageMsLocales (code, cb)
 
@@ -116,23 +167,43 @@ Contents of each Language Culture object are described in **```.getCountry```** 
 Language code can be either iso639-1, iso639-2, iso639-2en or iso639-3 code.
 Contents of each Language Culture object are described in **```.getCountry```** method.
 
+```js
+CountryLanguage.getLanguageMsLocales('en', function (err, locales) {
+  if (err) {
+    console.log(err);
+  } else {
+    locales.forEach(function (locale) {
+      console.log(locale.langCultureName);
+    });
+  }
+});
+```
 
 ### .getCountries ()
 
 Returns an array object with info for every country in the world having an ISO 3166 code.
 Contents of each country object in the array is described in **```.getCountry```** method.
 
+```js
+var allCountries = CountryLanguage.getCountries();
+```
 
 ### .getLanguages ()
 
 Returns an array object with info for every language in the world having an ISO 639-2 code (and a few more).
 Contents of each language object in the array is described in **```.getCountry```** method.
 
+```js
+var allLanguages = CountryLanguage.getLanguages();
+```
 
 ### .getLanguageFamilies ()
 
 Returns an array of strings with the names of each language family.
 
+```js
+var allLanguageFamilies = CountryLanguage.getLanguageFamilies();
+```
 
 ### .getLanguageFamilyMembers (family, cb)
 
@@ -145,6 +216,18 @@ Contents of each language object in the array is described in **```.getCountry``
 * **@cb** _{Object}_ object array containing languages info for each language member in the family.
 
 Contents of the returned language object are described in **```.getCountry```** method.
+
+```js
+CountryLanguage.getLanguageFamilyMembers('Indo-European', function (err, languages) {
+  if (err) {
+    console.log(err);
+  } else {
+    languages.forEach(function (language) {
+      console.log(language.name);
+    });
+  }
+});
+```
 <br />
 ## Notes
 
@@ -163,3 +246,7 @@ the ```cb``` parameter is optional. When not provided, each method returns eithe
 <br/>
 <br/>
 Any input parameter (country code, language code, language family name) is case insensitive.
+<br/>
+<br/>
+<br/>
+```Language#nativeName``` string is not displayed correclty on the console for Right-to-Left (RTL) languages. However, there is no issue on string rendering (either on the browser or any text editor).
