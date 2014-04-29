@@ -305,7 +305,7 @@ Any input parameter (country code, language code, language family name) is case 
 
 # License
 
-Copyright (c) 2014 BDSwiss Open Source Team
+Copyright (c) 2014 BDSwiss
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
