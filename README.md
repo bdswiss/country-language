@@ -7,7 +7,7 @@ country-language
 
 ### Node.js
 
-`country-language` is available on [npm](http://npmjs.org).
+`country-language` is available on [npm](https://www.npmjs.org/package/country-language).
 
     $ npm install country-language
 
