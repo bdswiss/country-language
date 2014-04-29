@@ -2410,6 +2410,9 @@
         "Norsk bokmål"
       ],
       "family": "Indo-European",
+      "countries": [
+        "NOR"
+      ],
       "langCultureMs": [
         {
           "langCultureName": "nb-NO",
@@ -2492,6 +2495,9 @@
         "Norsk nynorsk"
       ],
       "family": "Indo-European",
+      "countries": [
+        "NOR"
+      ],
       "langCultureMs": [
         {
           "langCultureName": "nn-NO",
@@ -5957,7 +5963,9 @@
       "numCode": "578",
       "name": "Norway",
       "languages": [
-        "nor"
+        "nor",
+        "nob",
+        "nno"
       ],
       "langCultureMs": [
         {

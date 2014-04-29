@@ -106,13 +106,13 @@ function parseCountryLanguages (next) {
                 }
                 if (language == 'Sotho') language = 'Southern Sotho';
                 langObj = _.find(objLanguages, function (lng) {
-                  return _.find(lng.name, function (name) { return name == language })
+                  return _.find(lng.name, function (name) { return name == language; });
                 });
                 if (langObj) {
                   langCode = langObj.iso639_3;
                 } else {
                   langObj = _.find(objLanguages, function (lng) {
-                    return _.find(lng.nativeName, function (name) { return name == language })
+                    return _.find(lng.nativeName, function (name) { return name == language; });
                   });
                   if (langObj) {
                     langCode = langObj.iso639_3;
@@ -275,14 +275,21 @@ function parseCountryLanguages (next) {
                       mCountry = null;
                     }
                     if (langObj && mCountry) {
-                      countryCode = mCountry.code_3;
-                      langObj.countries.push(countryCode);
-                      var countrObj = _.find(objCountries, function (c) {
-                        return c.code_3 == countryCode;
-                      });
-                      countrObj.languages = countrObj.languages || [];
-                      if (_.indexOf(countrObj.languages, langCode) == -1) {
-                        countrObj.languages.push(langCode);
+                      addCountryLanguage(langObj, mCountry, langCode);
+
+                      if (langCode == 'nor') {
+                        langCode = 'nob';
+                        langObj = _.find(objLanguages, function (lng) {
+                          return lng.iso639_3 == langCode;
+                        });
+                        langObj.countries = langObj.countries || [];
+                        addCountryLanguage(langObj, mCountry, langCode);
+                        langCode = 'nno';
+                        langObj = _.find(objLanguages, function (lng) {
+                          return lng.iso639_3 == langCode;
+                        });
+                        langObj.countries = langObj.countries || [];
+                        addCountryLanguage(langObj, mCountry, langCode);
                       }
 
                       childrenCountries = $(li).children('ul');
@@ -291,6 +298,18 @@ function parseCountryLanguages (next) {
                       }
                     }
                   });
+                }
+
+                function addCountryLanguage (langObj, mCountry, langCode) {
+                  countryCode = mCountry.code_3;
+                  langObj.countries.push(countryCode);
+                  var countrObj = _.find(objCountries, function (c) {
+                    return c.code_3 == countryCode;
+                  });
+                  countrObj.languages = countrObj.languages || [];
+                  if (_.indexOf(countrObj.languages, langCode) == -1) {
+                    countrObj.languages.push(langCode);
+                  }
                 }
 
                 console.log('language:', language); // DEBUG
