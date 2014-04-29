@@ -257,12 +257,12 @@ function parseCountryLanguages (next) {
                       if (mCountry) {
                         console.log('++++++++++ country:', country); // DEBUG
                       } else {
-                        var aa = _.find(cRef, function (ref) {
+                        var cNameTranslation = _.find(cRef, function (ref) {
                           return ref.name == country;
                         });
-                        if (aa) {
+                        if (cNameTranslation) {
                           mCountry = _.find(objCountries, function (c) {
-                            return c.name == aa.ref;
+                            return c.name == cNameTranslation.ref;
                           });
                           country = mCountry.name;
                           console.log('++++++++++ country:', country); // DEBUG
