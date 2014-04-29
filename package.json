@@ -1,6 +1,6 @@
 {
-  "name": "country-languages",
-  "version": "0.1.0",
+  "name": "country-language",
+  "version": "0.1.1",
   "description": "Query languages spoken to a country or countries where people speak a language.",
   "main": "index.js",
   "dependencies": {
@@ -14,7 +14,8 @@
   "keywords": [
     "country",
     "language",
-    "native"
+    "native",
+    "node"
   ],
   "repository": {
     "type": "git",
