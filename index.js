@@ -1,5 +1,6 @@
 var _ = require('underscore')
   , _d = require('underscore.deep')
+  , utils = require('./utils')
   , data = require('./data.json');
 
 _.mixin(_d);
@@ -19,6 +20,48 @@ exports.getLanguages = function () {
 
 exports.getLanguageFamilies = function () {
   return data.languageFamilies;
+};
+
+exports.getLanguageCodes = function (codeType, cb) {
+  var languages = data.languages
+    , cType
+    , cTypeNames = [ 'iso639_1', 'iso639_2en', 'iso639_3']
+    , codes = [];
+
+  cb = cb || utils.isFunction(codeType) ? codeType : noop;
+
+  codeType = (codeType && !utils.isFunction(codeType)) ? codeType : 1;
+  codeType = Math.floor(Number(codeType));
+  if (isNaN(codeType) || codeType < 1 || codeType > cTypeNames.length) {
+    return cb('Wrong language code type provided. Valid values: 1, 2, 3 for iso639-1, iso639-2, iso639-3 respectively');
+  }
+  cType = cTypeNames[codeType - 1];
+  _.each(languages, function (language) {
+    if (language[cType]) codes.push(language[cType]);
+  });
+
+  return cb(null, codes);
+};
+
+exports.getCountryCodes = function (codeType, cb) {
+  var countries = data.countries
+    , cType
+    , cTypeNames = [ 'numCode', 'code_2', 'code_3' ]
+    , codes = [];
+
+  cb = cb || utils.isFunction(codeType) ? codeType : noop;
+
+  codeType = (codeType && !utils.isFunction(codeType)) ? codeType : 2;
+  codeType = Math.floor(Number(codeType));
+  if (isNaN(codeType) || codeType < 1 || codeType > cTypeNames.length) {
+    return cb('Wrong country code type provided. Valid values: 1, 2, 3 for numeric code, alpha-2, alpha-3 respectively');
+  }
+  cType = cTypeNames[codeType - 1];
+  _.each(countries, function (country) {
+    if (country[cType]) codes.push(country[cType]);
+  });
+
+  return cb(null, codes);
 };
 
 exports.getCountry  = function (code, cb, noLangInfo) {

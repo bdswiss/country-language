@@ -19,6 +19,34 @@ Once you require `country-language`, the following API will be available.
 var CountryLanguage = require('country-language');
 ```
 
+### .getLanguageCodes (languageCodeType, cb)
+
+* **@param** _{String}_ language code type. Acceptable values: 1, 2 or 3.
+* **@param** _{Function}_ callback on complete or error
+* **@cb** _{Error|null}_ if error
+* **@cb** _{Object}_ array String with language codes
+
+Acceptable language code type parameter values: 1, 2, 3 for returning ISO-639-1, ISO-639-2, ISO-639-3 codes respectively.
+If not provided, ISO-639-1 codes will be returned.
+
+```js
+var allLanguageCodes = CountryLanguage.getLanguageCodes(2);
+```
+
+### .getCountryCodes (countryCodeType, cb)
+
+* **@param** _{String}_ country code type. Acceptable values: 1, 2 or 3.
+* **@param** _{Function}_ callback on complete or error
+* **@cb** _{Error|null}_ if error
+* **@cb** _{Object}_ array String with country codes
+
+Acceptable country code type parameter values: 1, 2, 3 for returning numerical code, alpha-2, alpha-3 codes respectively.
+If not provided, alpha-2 codes will be returned.
+
+```js
+var allCountryCodes = CountryLanguage.getCountryCodes(2);
+```
+
 ### .getCountry (code, cb)
 
 * **@param** _{String}_ country code
