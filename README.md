@@ -261,6 +261,8 @@ CountryLanguage.getLanguageFamilyMembers('Indo-European', function (err, languag
 
 For the following methods:
 
+* **.getLanguageCodes**
+* **.getCountryCodes**
 * **.getCountry**
 * **.getLanguage**
 * **.getCountryLanguages**
