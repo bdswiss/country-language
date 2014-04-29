@@ -52,6 +52,8 @@ var allCountryCodes = CountryLanguage.getCountryCodes(2);
 * **@param** _{String}_ language code to check.
 
 Returns Boolean indicating language existance.
+Language code parameter can be either a ISO-639-1, ISO-639-2 or ISO-639-3 code.
+
 ```js
 var languageExists = CountryLanguage.languageCodeExists('en');
 ```
@@ -61,6 +63,8 @@ var languageExists = CountryLanguage.languageCodeExists('en');
 * **@param** _{String}_ country code to check.
 
 Returns Boolean indicating country existance.
+Country code parameter can be either an alpha-2, alpha-3 or numerical code.
+
 ```js
 var countryExists = CountryLanguage.countryCodeExists('GB');
 ```
