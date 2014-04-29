@@ -64,6 +64,36 @@ exports.getCountryCodes = function (codeType, cb) {
   return cb(null, codes);
 };
 
+exports.languageCodeExists = function (code) {
+  var codes
+    , exists;
+
+  if (!code) return false;
+  code = code.toLowerCase();
+  for (var i = 1; i < 4; i++) {
+    codes = exports.getLanguageCodes(i);
+    exists = _.indexOf(codes, code) != -1;
+    if (exists) break;
+  }
+
+  return exists;
+};
+
+exports.countryCodeExists = function (code) {
+  var codes
+    , exists;
+
+  if (!code) return false;
+  code = code.toUpperCase();
+  for (var i = 1; i < 4; i++) {
+    codes = exports.getCountryCodes(i);
+    exists = _.indexOf(codes, code) != -1;
+    if (exists) break;
+  }
+
+  return exists;
+};
+
 exports.getCountry  = function (code, cb, noLangInfo) {
   var countries = data.countries
     , country

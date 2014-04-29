@@ -47,6 +47,24 @@ If not provided, alpha-2 codes will be returned.
 var allCountryCodes = CountryLanguage.getCountryCodes(2);
 ```
 
+### .languageCodeExists (languageCode)
+
+* **@param** _{String}_ language code to check.
+
+Returns Boolean indicating language existance.
+```js
+var languageExists = CountryLanguage.languageCodeExists('en');
+```
+
+### .countryCodeExists (countryCode)
+
+* **@param** _{String}_ country code to check.
+
+Returns Boolean indicating country existance.
+```js
+var countryExists = CountryLanguage.countryCodeExists('GB');
+```
+
 ### .getCountry (code, cb)
 
 * **@param** _{String}_ country code
