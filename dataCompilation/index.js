@@ -278,13 +278,13 @@ function parseCountryLanguages (next) {
                       addCountryLanguage(langObj, mCountry, langCode);
 
                       if (langCode == 'nor') {
-                        langCode = 'nob';
+                        langCode = 'nno';
                         langObj = _.find(objLanguages, function (lng) {
                           return lng.iso639_3 == langCode;
                         });
                         langObj.countries = langObj.countries || [];
                         addCountryLanguage(langObj, mCountry, langCode);
-                        langCode = 'nno';
+                        langCode = 'nob';
                         langObj = _.find(objLanguages, function (lng) {
                           return lng.iso639_3 == langCode;
                         });
@@ -302,13 +302,14 @@ function parseCountryLanguages (next) {
 
                 function addCountryLanguage (langObj, mCountry, langCode) {
                   countryCode = mCountry.code_3;
+                  var arrIns = countryCode != 'NOR' ? 'push' : 'unshift';
                   langObj.countries.push(countryCode);
                   var countrObj = _.find(objCountries, function (c) {
                     return c.code_3 == countryCode;
                   });
                   countrObj.languages = countrObj.languages || [];
                   if (_.indexOf(countrObj.languages, langCode) == -1) {
-                    countrObj.languages.push(langCode);
+                    countrObj.languages[arrIns](langCode);
                   }
                 }
 
