@@ -5963,9 +5963,9 @@
       "numCode": "578",
       "name": "Norway",
       "languages": [
-        "nor",
         "nob",
-        "nno"
+        "nno",
+        "nor"
       ],
       "langCultureMs": [
         {
