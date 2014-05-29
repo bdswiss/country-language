@@ -255,6 +255,19 @@ Returns an array of strings with the names of each language family.
 var allLanguageFamilies = CountryLanguage.getLanguageFamilies();
 ```
 
+### .getLocales (mode)
+
+* **@param** _{Boolean}_ locale symbols mode
+
+Returns an array of strings with all locale codes.
+If mode ommited or false, locales with 3 parts will be returned like: **az-Cyrl-AZ**
+
+If mode is set to true, they will be returned like: **az-AZ-Cyrl**
+
+```js
+var localesSymbols = CountryLanguage.getLocales();
+var localesSymbols = CountryLanguage.getLocales(true);
+```
 ### .getLanguageFamilyMembers (family, cb)
 
 Returns an array object with info for every language in the world having an ISO 639-2 code (and a few more).

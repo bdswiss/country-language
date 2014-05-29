@@ -22,3 +22,8 @@
   Source: http://msdn.microsoft.com/en-us/library/ee825488(v=cs.20).aspx
           ("Table of Language Culture Names, Codes, and ISO Values Method [C++]")
   Description: List of Cultures
+
+- locales.txt
+  Source: http://stackoverflow.com/questions/3191664/list-of-all-locales-and-their-short-codes
+          ("List of All Locales and Their Short Codes?")
+  Description: List of all Cultures

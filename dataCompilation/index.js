@@ -10,6 +10,7 @@ _.str = require('underscore.string');
 obj.languageFamilies = [];
 obj.languages = [];
 obj.countries = [];
+obj.locales = [];
 
 function parseLanguages (next) {
   var langFamily
@@ -386,13 +387,24 @@ function parseCountryLanguageCultures (next) {
     }
   })
   .on('end', function (count) {
-    outputJSON(obj, '../data.json');
     next();
   });
 }
 
+function parseAllLocales (next) {
+  var filepath = __dirname + '/dataSources/locales.txt'
+    , locContents = fs.readFileSync(filepath, 'utf8').split('\n');
+  locContents.forEach(function (loc) {
+    if (loc) {
+      obj.locales.push(loc.split('-'));
+    }
+  });
+  next();
+}
+
 function finish (err) {
   if (err) return console.log('ERROR:', err);
+  outputJSON(obj, '../data.json');
   console.log('\nProcess completed successfully.');
 }
 
@@ -401,6 +413,7 @@ async.series([
   , parseCountries
   , parseCountryLanguages
   , parseCountryLanguageCultures
+  , parseAllLocales
 ], finish)
 
 function strCommaToArray(commaStr) {
@@ -414,6 +427,5 @@ function strCommaToArray(commaStr) {
 function outputJSON (obj, filename) {
   var filepath = __dirname + '/' + filename
     , output = JSON.stringify(obj, undefined, 2);
-
     fs.writeFileSync(filepath, output, 'utf8');
 }

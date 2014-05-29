@@ -41,3 +41,9 @@ console.log(JSON.stringify(lib.languageCodeExists('en'), null, 2));
 
 console.log('~~~~~~~~~~~~~ countryCodeExists');
 console.log(JSON.stringify(lib.countryCodeExists('gr'), null, 2));
+
+console.log('~~~~~~~~~~~~~ getLocales()');
+console.log(JSON.stringify(lib.getLocales(), null, 2));
+
+console.log('~~~~~~~~~~~~~ getLocales(true)');
+console.log(JSON.stringify(lib.getLocales(true), null, 2));

@@ -266,3 +266,18 @@ exports.getLanguageFamilyMembers = function (family, cb) {
   });
   return cb(null, ret);
 };
+
+exports.getLocales = function (mode) {
+  var locales = data.locales
+    , ret = []
+    , loc2;
+  locales.forEach(function (loc) {
+    loc2 = loc[2] ? '-' + loc[2] : '';
+    if (mode) {
+      ret.push(loc[0] + loc2 + '-' + loc[1]);
+    } else {
+      ret.push(loc[0] + '-' + loc[1] + loc2);
+    }
+  });
+  return ret;
+}
