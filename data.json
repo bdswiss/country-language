@@ -3957,8 +3957,12 @@
       "iso639_2": "ace",
       "iso639_2en": "ace",
       "iso639_3": "ace",
-      "name": "Achinese",
-      "nativeName": "",
+      "name": [
+        "Achinese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -3966,8 +3970,12 @@
       "iso639_2": "ach",
       "iso639_2en": "ach",
       "iso639_3": "ach",
-      "name": "Acoli",
-      "nativeName": "",
+      "name": [
+        "Acoli"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -3975,8 +3983,12 @@
       "iso639_2": "ada",
       "iso639_2en": "ada",
       "iso639_3": "ada",
-      "name": "Adangme",
-      "nativeName": "",
+      "name": [
+        "Adangme"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -3984,8 +3996,13 @@
       "iso639_2": "ady",
       "iso639_2en": "ady",
       "iso639_3": "ady",
-      "name": "Adyghe; Adygei",
-      "nativeName": "",
+      "name": [
+        "Adyghe",
+        " Adygei"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -3993,8 +4010,12 @@
       "iso639_2": "afa",
       "iso639_2en": "afa",
       "iso639_3": "afa",
-      "name": "Afro-Asiatic languages",
-      "nativeName": "",
+      "name": [
+        "Afro-Asiatic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4002,8 +4023,12 @@
       "iso639_2": "afh",
       "iso639_2en": "afh",
       "iso639_3": "afh",
-      "name": "Afrihili",
-      "nativeName": "",
+      "name": [
+        "Afrihili"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4011,8 +4036,12 @@
       "iso639_2": "ain",
       "iso639_2en": "ain",
       "iso639_3": "ain",
-      "name": "Ainu",
-      "nativeName": "",
+      "name": [
+        "Ainu"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4020,8 +4049,12 @@
       "iso639_2": "akk",
       "iso639_2en": "akk",
       "iso639_3": "akk",
-      "name": "Akkadian",
-      "nativeName": "",
+      "name": [
+        "Akkadian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4029,8 +4062,12 @@
       "iso639_2": "ale",
       "iso639_2en": "ale",
       "iso639_3": "ale",
-      "name": "Aleut",
-      "nativeName": "",
+      "name": [
+        "Aleut"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4038,8 +4075,12 @@
       "iso639_2": "alg",
       "iso639_2en": "alg",
       "iso639_3": "alg",
-      "name": "Algonquian languages",
-      "nativeName": "",
+      "name": [
+        "Algonquian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4047,8 +4088,12 @@
       "iso639_2": "alt",
       "iso639_2en": "alt",
       "iso639_3": "alt",
-      "name": "Southern Altai",
-      "nativeName": "",
+      "name": [
+        "Southern Altai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4056,8 +4101,12 @@
       "iso639_2": "ang",
       "iso639_2en": "ang",
       "iso639_3": "ang",
-      "name": "English, Old (ca.450-1100)",
-      "nativeName": "",
+      "name": [
+        "English, Old (ca.450-1100)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4065,8 +4114,12 @@
       "iso639_2": "anp",
       "iso639_2en": "anp",
       "iso639_3": "anp",
-      "name": "Angika",
-      "nativeName": "",
+      "name": [
+        "Angika"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4074,8 +4127,12 @@
       "iso639_2": "apa",
       "iso639_2en": "apa",
       "iso639_3": "apa",
-      "name": "Apache languages",
-      "nativeName": "",
+      "name": [
+        "Apache languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4083,8 +4140,13 @@
       "iso639_2": "arc",
       "iso639_2en": "arc",
       "iso639_3": "arc",
-      "name": "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)",
-      "nativeName": "",
+      "name": [
+        "Official Aramaic (700-300 BCE)",
+        " Imperial Aramaic (700-300 BCE)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4092,8 +4154,13 @@
       "iso639_2": "arn",
       "iso639_2en": "arn",
       "iso639_3": "arn",
-      "name": "Mapudungun; Mapuche",
-      "nativeName": "",
+      "name": [
+        "Mapudungun",
+        " Mapuche"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4101,8 +4168,12 @@
       "iso639_2": "arp",
       "iso639_2en": "arp",
       "iso639_3": "arp",
-      "name": "Arapaho",
-      "nativeName": "",
+      "name": [
+        "Arapaho"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4110,8 +4181,12 @@
       "iso639_2": "art",
       "iso639_2en": "art",
       "iso639_3": "art",
-      "name": "Artificial languages",
-      "nativeName": "",
+      "name": [
+        "Artificial languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4119,8 +4194,12 @@
       "iso639_2": "arw",
       "iso639_2en": "arw",
       "iso639_3": "arw",
-      "name": "Arawak",
-      "nativeName": "",
+      "name": [
+        "Arawak"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4128,8 +4207,15 @@
       "iso639_2": "ast",
       "iso639_2en": "ast",
       "iso639_3": "ast",
-      "name": "Asturian; Bable; Leonese; Asturleonese",
-      "nativeName": "",
+      "name": [
+        "Asturian",
+        " Bable",
+        " Leonese",
+        " Asturleonese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4137,8 +4223,12 @@
       "iso639_2": "ath",
       "iso639_2en": "ath",
       "iso639_3": "ath",
-      "name": "Athapascan languages",
-      "nativeName": "",
+      "name": [
+        "Athapascan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4146,8 +4236,12 @@
       "iso639_2": "aus",
       "iso639_2en": "aus",
       "iso639_3": "aus",
-      "name": "Australian languages",
-      "nativeName": "",
+      "name": [
+        "Australian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4155,8 +4249,12 @@
       "iso639_2": "awa",
       "iso639_2en": "awa",
       "iso639_3": "awa",
-      "name": "Awadhi",
-      "nativeName": "",
+      "name": [
+        "Awadhi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4164,8 +4262,12 @@
       "iso639_2": "bad",
       "iso639_2en": "bad",
       "iso639_3": "bad",
-      "name": "Banda languages",
-      "nativeName": "",
+      "name": [
+        "Banda languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4173,8 +4275,12 @@
       "iso639_2": "bai",
       "iso639_2en": "bai",
       "iso639_3": "bai",
-      "name": "Bamileke languages",
-      "nativeName": "",
+      "name": [
+        "Bamileke languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4182,8 +4288,12 @@
       "iso639_2": "bal",
       "iso639_2en": "bal",
       "iso639_3": "bal",
-      "name": "Baluchi",
-      "nativeName": "",
+      "name": [
+        "Baluchi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4191,8 +4301,12 @@
       "iso639_2": "ban",
       "iso639_2en": "ban",
       "iso639_3": "ban",
-      "name": "Balinese",
-      "nativeName": "",
+      "name": [
+        "Balinese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4200,8 +4314,12 @@
       "iso639_2": "bas",
       "iso639_2en": "bas",
       "iso639_3": "bas",
-      "name": "Basa",
-      "nativeName": "",
+      "name": [
+        "Basa"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4209,8 +4327,12 @@
       "iso639_2": "bat",
       "iso639_2en": "bat",
       "iso639_3": "bat",
-      "name": "Baltic languages",
-      "nativeName": "",
+      "name": [
+        "Baltic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4218,8 +4340,13 @@
       "iso639_2": "bej",
       "iso639_2en": "bej",
       "iso639_3": "bej",
-      "name": "Beja; Bedawiyet",
-      "nativeName": "",
+      "name": [
+        "Beja",
+        " Bedawiyet"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4227,8 +4354,12 @@
       "iso639_2": "bem",
       "iso639_2en": "bem",
       "iso639_3": "bem",
-      "name": "Bemba",
-      "nativeName": "",
+      "name": [
+        "Bemba"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4236,8 +4367,12 @@
       "iso639_2": "bho",
       "iso639_2en": "bho",
       "iso639_3": "bho",
-      "name": "Bhojpuri",
-      "nativeName": "",
+      "name": [
+        "Bhojpuri"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4245,8 +4380,12 @@
       "iso639_2": "bik",
       "iso639_2en": "bik",
       "iso639_3": "bik",
-      "name": "Bikol",
-      "nativeName": "",
+      "name": [
+        "Bikol"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4254,8 +4393,13 @@
       "iso639_2": "bin",
       "iso639_2en": "bin",
       "iso639_3": "bin",
-      "name": "Bini; Edo",
-      "nativeName": "",
+      "name": [
+        "Bini",
+        " Edo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4263,8 +4407,12 @@
       "iso639_2": "bla",
       "iso639_2en": "bla",
       "iso639_3": "bla",
-      "name": "Siksika",
-      "nativeName": "",
+      "name": [
+        "Siksika"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4272,8 +4420,12 @@
       "iso639_2": "bnt",
       "iso639_2en": "bnt",
       "iso639_3": "bnt",
-      "name": "Bantu languages",
-      "nativeName": "",
+      "name": [
+        "Bantu languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4281,8 +4433,12 @@
       "iso639_2": "bra",
       "iso639_2en": "bra",
       "iso639_3": "bra",
-      "name": "Braj",
-      "nativeName": "",
+      "name": [
+        "Braj"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4290,8 +4446,12 @@
       "iso639_2": "btk",
       "iso639_2en": "btk",
       "iso639_3": "btk",
-      "name": "Batak languages",
-      "nativeName": "",
+      "name": [
+        "Batak languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4299,8 +4459,12 @@
       "iso639_2": "bua",
       "iso639_2en": "bua",
       "iso639_3": "bua",
-      "name": "Buriat",
-      "nativeName": "",
+      "name": [
+        "Buriat"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4308,8 +4472,12 @@
       "iso639_2": "bug",
       "iso639_2en": "bug",
       "iso639_3": "bug",
-      "name": "Buginese",
-      "nativeName": "",
+      "name": [
+        "Buginese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4317,8 +4485,13 @@
       "iso639_2": "byn",
       "iso639_2en": "byn",
       "iso639_3": "byn",
-      "name": "Blin; Bilin",
-      "nativeName": "",
+      "name": [
+        "Blin",
+        " Bilin"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4326,8 +4499,12 @@
       "iso639_2": "cad",
       "iso639_2en": "cad",
       "iso639_3": "cad",
-      "name": "Caddo",
-      "nativeName": "",
+      "name": [
+        "Caddo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4335,8 +4512,12 @@
       "iso639_2": "cai",
       "iso639_2en": "cai",
       "iso639_3": "cai",
-      "name": "Central American Indian languages",
-      "nativeName": "",
+      "name": [
+        "Central American Indian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4344,8 +4525,12 @@
       "iso639_2": "car",
       "iso639_2en": "car",
       "iso639_3": "car",
-      "name": "Galibi Carib",
-      "nativeName": "",
+      "name": [
+        "Galibi Carib"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4353,8 +4538,12 @@
       "iso639_2": "cau",
       "iso639_2en": "cau",
       "iso639_3": "cau",
-      "name": "Caucasian languages",
-      "nativeName": "",
+      "name": [
+        "Caucasian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4362,8 +4551,12 @@
       "iso639_2": "ceb",
       "iso639_2en": "ceb",
       "iso639_3": "ceb",
-      "name": "Cebuano",
-      "nativeName": "",
+      "name": [
+        "Cebuano"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4371,8 +4564,12 @@
       "iso639_2": "cel",
       "iso639_2en": "cel",
       "iso639_3": "cel",
-      "name": "Celtic languages",
-      "nativeName": "",
+      "name": [
+        "Celtic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4380,8 +4577,12 @@
       "iso639_2": "chb",
       "iso639_2en": "chb",
       "iso639_3": "chb",
-      "name": "Chibcha",
-      "nativeName": "",
+      "name": [
+        "Chibcha"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4389,8 +4590,12 @@
       "iso639_2": "chg",
       "iso639_2en": "chg",
       "iso639_3": "chg",
-      "name": "Chagatai",
-      "nativeName": "",
+      "name": [
+        "Chagatai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4398,8 +4603,12 @@
       "iso639_2": "chk",
       "iso639_2en": "chk",
       "iso639_3": "chk",
-      "name": "Chuukese",
-      "nativeName": "",
+      "name": [
+        "Chuukese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4407,8 +4616,12 @@
       "iso639_2": "chm",
       "iso639_2en": "chm",
       "iso639_3": "chm",
-      "name": "Mari",
-      "nativeName": "",
+      "name": [
+        "Mari"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4416,8 +4629,12 @@
       "iso639_2": "chn",
       "iso639_2en": "chn",
       "iso639_3": "chn",
-      "name": "Chinook jargon",
-      "nativeName": "",
+      "name": [
+        "Chinook jargon"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4425,8 +4642,12 @@
       "iso639_2": "cho",
       "iso639_2en": "cho",
       "iso639_3": "cho",
-      "name": "Choctaw",
-      "nativeName": "",
+      "name": [
+        "Choctaw"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4434,8 +4655,13 @@
       "iso639_2": "chp",
       "iso639_2en": "chp",
       "iso639_3": "chp",
-      "name": "Chipewyan; Dene Suline",
-      "nativeName": "",
+      "name": [
+        "Chipewyan",
+        " Dene Suline"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4443,8 +4669,12 @@
       "iso639_2": "chr",
       "iso639_2en": "chr",
       "iso639_3": "chr",
-      "name": "Cherokee",
-      "nativeName": "",
+      "name": [
+        "Cherokee"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4452,8 +4682,12 @@
       "iso639_2": "chy",
       "iso639_2en": "chy",
       "iso639_3": "chy",
-      "name": "Cheyenne",
-      "nativeName": "",
+      "name": [
+        "Cheyenne"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4461,8 +4695,12 @@
       "iso639_2": "cmc",
       "iso639_2en": "cmc",
       "iso639_3": "cmc",
-      "name": "Chamic languages",
-      "nativeName": "",
+      "name": [
+        "Chamic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4470,8 +4708,12 @@
       "iso639_2": "cop",
       "iso639_2en": "cop",
       "iso639_3": "cop",
-      "name": "Coptic",
-      "nativeName": "",
+      "name": [
+        "Coptic"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4479,8 +4721,12 @@
       "iso639_2": "cpe",
       "iso639_2en": "cpe",
       "iso639_3": "cpe",
-      "name": "Creoles and pidgins, English based",
-      "nativeName": "",
+      "name": [
+        "Creoles and pidgins, English based"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4488,8 +4734,12 @@
       "iso639_2": "cpf",
       "iso639_2en": "cpf",
       "iso639_3": "cpf",
-      "name": "Creoles and pidgins, French-based",
-      "nativeName": "",
+      "name": [
+        "Creoles and pidgins, French-based"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4497,8 +4747,12 @@
       "iso639_2": "cpp",
       "iso639_2en": "cpp",
       "iso639_3": "cpp",
-      "name": "Creoles and pidgins, Portuguese-based",
-      "nativeName": "",
+      "name": [
+        "Creoles and pidgins, Portuguese-based"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4506,8 +4760,13 @@
       "iso639_2": "crh",
       "iso639_2en": "crh",
       "iso639_3": "crh",
-      "name": "Crimean Tatar; Crimean Turkish",
-      "nativeName": "",
+      "name": [
+        "Crimean Tatar",
+        " Crimean Turkish"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4515,8 +4774,12 @@
       "iso639_2": "crp",
       "iso639_2en": "crp",
       "iso639_3": "crp",
-      "name": "Creoles and pidgins",
-      "nativeName": "",
+      "name": [
+        "Creoles and pidgins"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4524,8 +4787,12 @@
       "iso639_2": "csb",
       "iso639_2en": "csb",
       "iso639_3": "csb",
-      "name": "Kashubian",
-      "nativeName": "",
+      "name": [
+        "Kashubian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4533,8 +4800,12 @@
       "iso639_2": "cus",
       "iso639_2en": "cus",
       "iso639_3": "cus",
-      "name": "Cushitic languages",
-      "nativeName": "",
+      "name": [
+        "Cushitic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4542,8 +4813,12 @@
       "iso639_2": "dak",
       "iso639_2en": "dak",
       "iso639_3": "dak",
-      "name": "Dakota",
-      "nativeName": "",
+      "name": [
+        "Dakota"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4551,8 +4826,12 @@
       "iso639_2": "dar",
       "iso639_2en": "dar",
       "iso639_3": "dar",
-      "name": "Dargwa",
-      "nativeName": "",
+      "name": [
+        "Dargwa"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4560,8 +4839,12 @@
       "iso639_2": "day",
       "iso639_2en": "day",
       "iso639_3": "day",
-      "name": "Land Dayak languages",
-      "nativeName": "",
+      "name": [
+        "Land Dayak languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4569,8 +4852,12 @@
       "iso639_2": "del",
       "iso639_2en": "del",
       "iso639_3": "del",
-      "name": "Delaware",
-      "nativeName": "",
+      "name": [
+        "Delaware"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4578,8 +4865,12 @@
       "iso639_2": "den",
       "iso639_2en": "den",
       "iso639_3": "den",
-      "name": "Slave (Athapascan)",
-      "nativeName": "",
+      "name": [
+        "Slave (Athapascan)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4587,8 +4878,12 @@
       "iso639_2": "dgr",
       "iso639_2en": "dgr",
       "iso639_3": "dgr",
-      "name": "Dogrib",
-      "nativeName": "",
+      "name": [
+        "Dogrib"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4596,8 +4891,12 @@
       "iso639_2": "din",
       "iso639_2en": "din",
       "iso639_3": "din",
-      "name": "Dinka",
-      "nativeName": "",
+      "name": [
+        "Dinka"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4605,8 +4904,12 @@
       "iso639_2": "doi",
       "iso639_2en": "doi",
       "iso639_3": "doi",
-      "name": "Dogri",
-      "nativeName": "",
+      "name": [
+        "Dogri"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4614,8 +4917,12 @@
       "iso639_2": "dra",
       "iso639_2en": "dra",
       "iso639_3": "dra",
-      "name": "Dravidian languages",
-      "nativeName": "",
+      "name": [
+        "Dravidian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4623,8 +4930,12 @@
       "iso639_2": "dsb",
       "iso639_2en": "dsb",
       "iso639_3": "dsb",
-      "name": "Lower Sorbian",
-      "nativeName": "",
+      "name": [
+        "Lower Sorbian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4632,8 +4943,12 @@
       "iso639_2": "dua",
       "iso639_2en": "dua",
       "iso639_3": "dua",
-      "name": "Duala",
-      "nativeName": "",
+      "name": [
+        "Duala"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4641,8 +4956,12 @@
       "iso639_2": "dum",
       "iso639_2en": "dum",
       "iso639_3": "dum",
-      "name": "Dutch, Middle (ca.1050-1350)",
-      "nativeName": "",
+      "name": [
+        "Dutch, Middle (ca.1050-1350)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4650,8 +4969,12 @@
       "iso639_2": "dyu",
       "iso639_2en": "dyu",
       "iso639_3": "dyu",
-      "name": "Dyula",
-      "nativeName": "",
+      "name": [
+        "Dyula"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4659,8 +4982,12 @@
       "iso639_2": "efi",
       "iso639_2en": "efi",
       "iso639_3": "efi",
-      "name": "Efik",
-      "nativeName": "",
+      "name": [
+        "Efik"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4668,8 +4995,12 @@
       "iso639_2": "egy",
       "iso639_2en": "egy",
       "iso639_3": "egy",
-      "name": "Egyptian (Ancient)",
-      "nativeName": "",
+      "name": [
+        "Egyptian (Ancient)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4677,8 +5008,12 @@
       "iso639_2": "eka",
       "iso639_2en": "eka",
       "iso639_3": "eka",
-      "name": "Ekajuk",
-      "nativeName": "",
+      "name": [
+        "Ekajuk"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4686,8 +5021,12 @@
       "iso639_2": "elx",
       "iso639_2en": "elx",
       "iso639_3": "elx",
-      "name": "Elamite",
-      "nativeName": "",
+      "name": [
+        "Elamite"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4695,8 +5034,12 @@
       "iso639_2": "enm",
       "iso639_2en": "enm",
       "iso639_3": "enm",
-      "name": "English, Middle (1100-1500)",
-      "nativeName": "",
+      "name": [
+        "English, Middle (1100-1500)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4704,8 +5047,12 @@
       "iso639_2": "ewo",
       "iso639_2en": "ewo",
       "iso639_3": "ewo",
-      "name": "Ewondo",
-      "nativeName": "",
+      "name": [
+        "Ewondo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4713,8 +5060,12 @@
       "iso639_2": "fan",
       "iso639_2en": "fan",
       "iso639_3": "fan",
-      "name": "Fang",
-      "nativeName": "",
+      "name": [
+        "Fang"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4722,8 +5073,12 @@
       "iso639_2": "fat",
       "iso639_2en": "fat",
       "iso639_3": "fat",
-      "name": "Fanti",
-      "nativeName": "",
+      "name": [
+        "Fanti"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4731,8 +5086,12 @@
       "iso639_2": "fiu",
       "iso639_2en": "fiu",
       "iso639_3": "fiu",
-      "name": "Finno-Ugrian languages",
-      "nativeName": "",
+      "name": [
+        "Finno-Ugrian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4740,8 +5099,12 @@
       "iso639_2": "fon",
       "iso639_2en": "fon",
       "iso639_3": "fon",
-      "name": "Fon",
-      "nativeName": "",
+      "name": [
+        "Fon"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4749,8 +5112,12 @@
       "iso639_2": "frm",
       "iso639_2en": "frm",
       "iso639_3": "frm",
-      "name": "French, Middle (ca.1400-1600)",
-      "nativeName": "",
+      "name": [
+        "French, Middle (ca.1400-1600)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4758,8 +5125,12 @@
       "iso639_2": "fro",
       "iso639_2en": "fro",
       "iso639_3": "fro",
-      "name": "French, Old (842-ca.1400)",
-      "nativeName": "",
+      "name": [
+        "French, Old (842-ca.1400)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4767,8 +5138,12 @@
       "iso639_2": "frr",
       "iso639_2en": "frr",
       "iso639_3": "frr",
-      "name": "Northern Frisian",
-      "nativeName": "",
+      "name": [
+        "Northern Frisian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4776,8 +5151,12 @@
       "iso639_2": "frs",
       "iso639_2en": "frs",
       "iso639_3": "frs",
-      "name": "Eastern Frisian",
-      "nativeName": "",
+      "name": [
+        "Eastern Frisian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4785,8 +5164,12 @@
       "iso639_2": "fur",
       "iso639_2en": "fur",
       "iso639_3": "fur",
-      "name": "Friulian",
-      "nativeName": "",
+      "name": [
+        "Friulian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4794,17 +5177,28 @@
       "iso639_2": "gaa",
       "iso639_2en": "gaa",
       "iso639_3": "gaa",
-      "name": "Ga",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Ga"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "GHA"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "gay",
       "iso639_2en": "gay",
       "iso639_3": "gay",
-      "name": "Gayo",
-      "nativeName": "",
+      "name": [
+        "Gayo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4812,8 +5206,12 @@
       "iso639_2": "gba",
       "iso639_2en": "gba",
       "iso639_3": "gba",
-      "name": "Gbaya",
-      "nativeName": "",
+      "name": [
+        "Gbaya"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4821,8 +5219,12 @@
       "iso639_2": "gem",
       "iso639_2en": "gem",
       "iso639_3": "gem",
-      "name": "Germanic languages",
-      "nativeName": "",
+      "name": [
+        "Germanic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4830,8 +5232,12 @@
       "iso639_2": "gez",
       "iso639_2en": "gez",
       "iso639_3": "gez",
-      "name": "Geez",
-      "nativeName": "",
+      "name": [
+        "Geez"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4839,8 +5245,12 @@
       "iso639_2": "gil",
       "iso639_2en": "gil",
       "iso639_3": "gil",
-      "name": "Gilbertese",
-      "nativeName": "",
+      "name": [
+        "Gilbertese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4848,8 +5258,12 @@
       "iso639_2": "gmh",
       "iso639_2en": "gmh",
       "iso639_3": "gmh",
-      "name": "German, Middle High (ca.1050-1500)",
-      "nativeName": "",
+      "name": [
+        "German, Middle High (ca.1050-1500)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4857,8 +5271,12 @@
       "iso639_2": "goh",
       "iso639_2en": "goh",
       "iso639_3": "goh",
-      "name": "German, Old High (ca.750-1050)",
-      "nativeName": "",
+      "name": [
+        "German, Old High (ca.750-1050)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4866,8 +5284,12 @@
       "iso639_2": "gon",
       "iso639_2en": "gon",
       "iso639_3": "gon",
-      "name": "Gondi",
-      "nativeName": "",
+      "name": [
+        "Gondi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4875,8 +5297,12 @@
       "iso639_2": "gor",
       "iso639_2en": "gor",
       "iso639_3": "gor",
-      "name": "Gorontalo",
-      "nativeName": "",
+      "name": [
+        "Gorontalo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4884,8 +5310,12 @@
       "iso639_2": "got",
       "iso639_2en": "got",
       "iso639_3": "got",
-      "name": "Gothic",
-      "nativeName": "",
+      "name": [
+        "Gothic"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4893,8 +5323,12 @@
       "iso639_2": "grb",
       "iso639_2en": "grb",
       "iso639_3": "grb",
-      "name": "Grebo",
-      "nativeName": "",
+      "name": [
+        "Grebo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4902,8 +5336,12 @@
       "iso639_2": "grc",
       "iso639_2en": "grc",
       "iso639_3": "grc",
-      "name": "Greek, Ancient (to 1453)",
-      "nativeName": "",
+      "name": [
+        "Greek, Ancient (to 1453)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4911,8 +5349,14 @@
       "iso639_2": "gsw",
       "iso639_2en": "gsw",
       "iso639_3": "gsw",
-      "name": "Swiss German; Alemannic; Alsatian",
-      "nativeName": "",
+      "name": [
+        "Swiss German",
+        " Alemannic",
+        " Alsatian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4920,8 +5364,12 @@
       "iso639_2": "gwi",
       "iso639_2en": "gwi",
       "iso639_3": "gwi",
-      "name": "Gwich'in",
-      "nativeName": "",
+      "name": [
+        "Gwich'in"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4929,8 +5377,12 @@
       "iso639_2": "hai",
       "iso639_2en": "hai",
       "iso639_3": "hai",
-      "name": "Haida",
-      "nativeName": "",
+      "name": [
+        "Haida"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4938,8 +5390,12 @@
       "iso639_2": "haw",
       "iso639_2en": "haw",
       "iso639_3": "haw",
-      "name": "Hawaiian",
-      "nativeName": "",
+      "name": [
+        "Hawaiian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4947,8 +5403,12 @@
       "iso639_2": "hil",
       "iso639_2en": "hil",
       "iso639_3": "hil",
-      "name": "Hiligaynon",
-      "nativeName": "",
+      "name": [
+        "Hiligaynon"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4956,8 +5416,13 @@
       "iso639_2": "him",
       "iso639_2en": "him",
       "iso639_3": "him",
-      "name": "Himachali languages; Western Pahari languages",
-      "nativeName": "",
+      "name": [
+        "Himachali languages",
+        " Western Pahari languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4965,8 +5430,12 @@
       "iso639_2": "hit",
       "iso639_2en": "hit",
       "iso639_3": "hit",
-      "name": "Hittite",
-      "nativeName": "",
+      "name": [
+        "Hittite"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4974,8 +5443,13 @@
       "iso639_2": "hmn",
       "iso639_2en": "hmn",
       "iso639_3": "hmn",
-      "name": "Hmong; Mong",
-      "nativeName": "",
+      "name": [
+        "Hmong",
+        " Mong"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4983,8 +5457,12 @@
       "iso639_2": "hsb",
       "iso639_2en": "hsb",
       "iso639_3": "hsb",
-      "name": "Upper Sorbian",
-      "nativeName": "",
+      "name": [
+        "Upper Sorbian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -4992,8 +5470,12 @@
       "iso639_2": "hup",
       "iso639_2en": "hup",
       "iso639_3": "hup",
-      "name": "Hupa",
-      "nativeName": "",
+      "name": [
+        "Hupa"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5001,8 +5483,12 @@
       "iso639_2": "iba",
       "iso639_2en": "iba",
       "iso639_3": "iba",
-      "name": "Iban",
-      "nativeName": "",
+      "name": [
+        "Iban"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5010,8 +5496,12 @@
       "iso639_2": "ijo",
       "iso639_2en": "ijo",
       "iso639_3": "ijo",
-      "name": "Ijo languages",
-      "nativeName": "",
+      "name": [
+        "Ijo languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5019,8 +5509,12 @@
       "iso639_2": "ilo",
       "iso639_2en": "ilo",
       "iso639_3": "ilo",
-      "name": "Iloko",
-      "nativeName": "",
+      "name": [
+        "Iloko"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5028,8 +5522,12 @@
       "iso639_2": "inc",
       "iso639_2en": "inc",
       "iso639_3": "inc",
-      "name": "Indic languages",
-      "nativeName": "",
+      "name": [
+        "Indic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5037,8 +5535,12 @@
       "iso639_2": "ine",
       "iso639_2en": "ine",
       "iso639_3": "ine",
-      "name": "Indo-European languages",
-      "nativeName": "",
+      "name": [
+        "Indo-European languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5046,8 +5548,12 @@
       "iso639_2": "inh",
       "iso639_2en": "inh",
       "iso639_3": "inh",
-      "name": "Ingush",
-      "nativeName": "",
+      "name": [
+        "Ingush"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5055,8 +5561,12 @@
       "iso639_2": "ira",
       "iso639_2en": "ira",
       "iso639_3": "ira",
-      "name": "Iranian languages",
-      "nativeName": "",
+      "name": [
+        "Iranian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5064,8 +5574,12 @@
       "iso639_2": "iro",
       "iso639_2en": "iro",
       "iso639_3": "iro",
-      "name": "Iroquoian languages",
-      "nativeName": "",
+      "name": [
+        "Iroquoian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5073,8 +5587,12 @@
       "iso639_2": "jbo",
       "iso639_2en": "jbo",
       "iso639_3": "jbo",
-      "name": "Lojban",
-      "nativeName": "",
+      "name": [
+        "Lojban"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5082,8 +5600,12 @@
       "iso639_2": "jpr",
       "iso639_2en": "jpr",
       "iso639_3": "jpr",
-      "name": "Judeo-Persian",
-      "nativeName": "",
+      "name": [
+        "Judeo-Persian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5091,8 +5613,12 @@
       "iso639_2": "jrb",
       "iso639_2en": "jrb",
       "iso639_3": "jrb",
-      "name": "Judeo-Arabic",
-      "nativeName": "",
+      "name": [
+        "Judeo-Arabic"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5100,8 +5626,12 @@
       "iso639_2": "kaa",
       "iso639_2en": "kaa",
       "iso639_3": "kaa",
-      "name": "Kara-Kalpak",
-      "nativeName": "",
+      "name": [
+        "Kara-Kalpak"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5109,8 +5639,12 @@
       "iso639_2": "kab",
       "iso639_2en": "kab",
       "iso639_3": "kab",
-      "name": "Kabyle",
-      "nativeName": "",
+      "name": [
+        "Kabyle"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5118,8 +5652,13 @@
       "iso639_2": "kac",
       "iso639_2en": "kac",
       "iso639_3": "kac",
-      "name": "Kachin; Jingpho",
-      "nativeName": "",
+      "name": [
+        "Kachin",
+        " Jingpho"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5127,8 +5666,12 @@
       "iso639_2": "kam",
       "iso639_2en": "kam",
       "iso639_3": "kam",
-      "name": "Kamba",
-      "nativeName": "",
+      "name": [
+        "Kamba"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5136,8 +5679,12 @@
       "iso639_2": "kar",
       "iso639_2en": "kar",
       "iso639_3": "kar",
-      "name": "Karen languages",
-      "nativeName": "",
+      "name": [
+        "Karen languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5145,8 +5692,12 @@
       "iso639_2": "kaw",
       "iso639_2en": "kaw",
       "iso639_3": "kaw",
-      "name": "Kawi",
-      "nativeName": "",
+      "name": [
+        "Kawi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5154,8 +5705,12 @@
       "iso639_2": "kbd",
       "iso639_2en": "kbd",
       "iso639_3": "kbd",
-      "name": "Kabardian",
-      "nativeName": "",
+      "name": [
+        "Kabardian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5163,8 +5718,12 @@
       "iso639_2": "kha",
       "iso639_2en": "kha",
       "iso639_3": "kha",
-      "name": "Khasi",
-      "nativeName": "",
+      "name": [
+        "Khasi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5172,8 +5731,12 @@
       "iso639_2": "khi",
       "iso639_2en": "khi",
       "iso639_3": "khi",
-      "name": "Khoisan languages",
-      "nativeName": "",
+      "name": [
+        "Khoisan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5181,8 +5744,13 @@
       "iso639_2": "kho",
       "iso639_2en": "kho",
       "iso639_3": "kho",
-      "name": "Khotanese; Sakan",
-      "nativeName": "",
+      "name": [
+        "Khotanese",
+        " Sakan"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5190,17 +5758,28 @@
       "iso639_2": "kmb",
       "iso639_2en": "kmb",
       "iso639_3": "kmb",
-      "name": "Kimbundu",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Kimbundu"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "AGO"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "kok",
       "iso639_2en": "kok",
       "iso639_3": "kok",
-      "name": "Konkani",
-      "nativeName": "",
+      "name": [
+        "Konkani"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": "",
       "langCultureMs": [
         {
@@ -5215,8 +5794,12 @@
       "iso639_2": "kos",
       "iso639_2en": "kos",
       "iso639_3": "kos",
-      "name": "Kosraean",
-      "nativeName": "",
+      "name": [
+        "Kosraean"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5224,8 +5807,12 @@
       "iso639_2": "kpe",
       "iso639_2en": "kpe",
       "iso639_3": "kpe",
-      "name": "Kpelle",
-      "nativeName": "",
+      "name": [
+        "Kpelle"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5233,8 +5820,12 @@
       "iso639_2": "krc",
       "iso639_2en": "krc",
       "iso639_3": "krc",
-      "name": "Karachay-Balkar",
-      "nativeName": "",
+      "name": [
+        "Karachay-Balkar"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5242,8 +5833,12 @@
       "iso639_2": "krl",
       "iso639_2en": "krl",
       "iso639_3": "krl",
-      "name": "Karelian",
-      "nativeName": "",
+      "name": [
+        "Karelian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5251,8 +5846,12 @@
       "iso639_2": "kro",
       "iso639_2en": "kro",
       "iso639_3": "kro",
-      "name": "Kru languages",
-      "nativeName": "",
+      "name": [
+        "Kru languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5260,8 +5859,12 @@
       "iso639_2": "kru",
       "iso639_2en": "kru",
       "iso639_3": "kru",
-      "name": "Kurukh",
-      "nativeName": "",
+      "name": [
+        "Kurukh"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5269,8 +5872,12 @@
       "iso639_2": "kum",
       "iso639_2en": "kum",
       "iso639_3": "kum",
-      "name": "Kumyk",
-      "nativeName": "",
+      "name": [
+        "Kumyk"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5278,8 +5885,12 @@
       "iso639_2": "kut",
       "iso639_2en": "kut",
       "iso639_3": "kut",
-      "name": "Kutenai",
-      "nativeName": "",
+      "name": [
+        "Kutenai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5287,8 +5898,12 @@
       "iso639_2": "lad",
       "iso639_2en": "lad",
       "iso639_3": "lad",
-      "name": "Ladino",
-      "nativeName": "",
+      "name": [
+        "Ladino"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5296,8 +5911,12 @@
       "iso639_2": "lah",
       "iso639_2en": "lah",
       "iso639_3": "lah",
-      "name": "Lahnda",
-      "nativeName": "",
+      "name": [
+        "Lahnda"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5305,8 +5924,12 @@
       "iso639_2": "lam",
       "iso639_2en": "lam",
       "iso639_3": "lam",
-      "name": "Lamba",
-      "nativeName": "",
+      "name": [
+        "Lamba"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5314,8 +5937,12 @@
       "iso639_2": "lez",
       "iso639_2en": "lez",
       "iso639_3": "lez",
-      "name": "Lezghian",
-      "nativeName": "",
+      "name": [
+        "Lezghian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5323,8 +5950,12 @@
       "iso639_2": "lol",
       "iso639_2en": "lol",
       "iso639_3": "lol",
-      "name": "Mongo",
-      "nativeName": "",
+      "name": [
+        "Mongo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5332,8 +5963,12 @@
       "iso639_2": "loz",
       "iso639_2en": "loz",
       "iso639_3": "loz",
-      "name": "Lozi",
-      "nativeName": "",
+      "name": [
+        "Lozi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5341,8 +5976,12 @@
       "iso639_2": "lua",
       "iso639_2en": "lua",
       "iso639_3": "lua",
-      "name": "Luba-Lulua",
-      "nativeName": "",
+      "name": [
+        "Luba-Lulua"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5350,8 +5989,12 @@
       "iso639_2": "lui",
       "iso639_2en": "lui",
       "iso639_3": "lui",
-      "name": "Luiseno",
-      "nativeName": "",
+      "name": [
+        "Luiseno"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5359,8 +6002,12 @@
       "iso639_2": "lun",
       "iso639_2en": "lun",
       "iso639_3": "lun",
-      "name": "Lunda",
-      "nativeName": "",
+      "name": [
+        "Lunda"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5368,8 +6015,12 @@
       "iso639_2": "luo",
       "iso639_2en": "luo",
       "iso639_3": "luo",
-      "name": "Luo (Kenya and Tanzania)",
-      "nativeName": "",
+      "name": [
+        "Luo (Kenya and Tanzania)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5377,8 +6028,12 @@
       "iso639_2": "lus",
       "iso639_2en": "lus",
       "iso639_3": "lus",
-      "name": "Lushai",
-      "nativeName": "",
+      "name": [
+        "Lushai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5386,8 +6041,12 @@
       "iso639_2": "mad",
       "iso639_2en": "mad",
       "iso639_3": "mad",
-      "name": "Madurese",
-      "nativeName": "",
+      "name": [
+        "Madurese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5395,8 +6054,12 @@
       "iso639_2": "mag",
       "iso639_2en": "mag",
       "iso639_3": "mag",
-      "name": "Magahi",
-      "nativeName": "",
+      "name": [
+        "Magahi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5404,8 +6067,12 @@
       "iso639_2": "mai",
       "iso639_2en": "mai",
       "iso639_3": "mai",
-      "name": "Maithili",
-      "nativeName": "",
+      "name": [
+        "Maithili"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5413,8 +6080,12 @@
       "iso639_2": "mak",
       "iso639_2en": "mak",
       "iso639_3": "mak",
-      "name": "Makasar",
-      "nativeName": "",
+      "name": [
+        "Makasar"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5422,8 +6093,12 @@
       "iso639_2": "man",
       "iso639_2en": "man",
       "iso639_3": "man",
-      "name": "Mandingo",
-      "nativeName": "",
+      "name": [
+        "Mandingo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5431,8 +6106,12 @@
       "iso639_2": "map",
       "iso639_2en": "map",
       "iso639_3": "map",
-      "name": "Austronesian languages",
-      "nativeName": "",
+      "name": [
+        "Austronesian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5440,8 +6119,12 @@
       "iso639_2": "mas",
       "iso639_2en": "mas",
       "iso639_3": "mas",
-      "name": "Masai",
-      "nativeName": "",
+      "name": [
+        "Masai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5449,8 +6132,12 @@
       "iso639_2": "mdf",
       "iso639_2en": "mdf",
       "iso639_3": "mdf",
-      "name": "Moksha",
-      "nativeName": "",
+      "name": [
+        "Moksha"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5458,8 +6145,12 @@
       "iso639_2": "mdr",
       "iso639_2en": "mdr",
       "iso639_3": "mdr",
-      "name": "Mandar",
-      "nativeName": "",
+      "name": [
+        "Mandar"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5467,8 +6158,12 @@
       "iso639_2": "men",
       "iso639_2en": "men",
       "iso639_3": "men",
-      "name": "Mende",
-      "nativeName": "",
+      "name": [
+        "Mende"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5476,8 +6171,12 @@
       "iso639_2": "mga",
       "iso639_2en": "mga",
       "iso639_3": "mga",
-      "name": "Irish, Middle (900-1200)",
-      "nativeName": "",
+      "name": [
+        "Irish, Middle (900-1200)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5485,8 +6184,13 @@
       "iso639_2": "mic",
       "iso639_2en": "mic",
       "iso639_3": "mic",
-      "name": "Mi'kmaq; Micmac",
-      "nativeName": "",
+      "name": [
+        "Mi'kmaq",
+        " Micmac"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5494,8 +6198,12 @@
       "iso639_2": "min",
       "iso639_2en": "min",
       "iso639_3": "min",
-      "name": "Minangkabau",
-      "nativeName": "",
+      "name": [
+        "Minangkabau"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5503,8 +6211,12 @@
       "iso639_2": "mis",
       "iso639_2en": "mis",
       "iso639_3": "mis",
-      "name": "Uncoded languages",
-      "nativeName": "",
+      "name": [
+        "Uncoded languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5512,8 +6224,12 @@
       "iso639_2": "mkh",
       "iso639_2en": "mkh",
       "iso639_3": "mkh",
-      "name": "Mon-Khmer languages",
-      "nativeName": "",
+      "name": [
+        "Mon-Khmer languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5521,8 +6237,12 @@
       "iso639_2": "mnc",
       "iso639_2en": "mnc",
       "iso639_3": "mnc",
-      "name": "Manchu",
-      "nativeName": "",
+      "name": [
+        "Manchu"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5530,8 +6250,12 @@
       "iso639_2": "mni",
       "iso639_2en": "mni",
       "iso639_3": "mni",
-      "name": "Manipuri",
-      "nativeName": "",
+      "name": [
+        "Manipuri"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5539,8 +6263,12 @@
       "iso639_2": "mno",
       "iso639_2en": "mno",
       "iso639_3": "mno",
-      "name": "Manobo languages",
-      "nativeName": "",
+      "name": [
+        "Manobo languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5548,8 +6276,12 @@
       "iso639_2": "moh",
       "iso639_2en": "moh",
       "iso639_3": "moh",
-      "name": "Mohawk",
-      "nativeName": "",
+      "name": [
+        "Mohawk"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5557,17 +6289,28 @@
       "iso639_2": "mos",
       "iso639_2en": "mos",
       "iso639_3": "mos",
-      "name": "Mossi",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Mossi"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "BFA"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "mul",
       "iso639_2en": "mul",
       "iso639_3": "mul",
-      "name": "Multiple languages",
-      "nativeName": "",
+      "name": [
+        "Multiple languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5575,8 +6318,12 @@
       "iso639_2": "mun",
       "iso639_2en": "mun",
       "iso639_3": "mun",
-      "name": "Munda languages",
-      "nativeName": "",
+      "name": [
+        "Munda languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5584,8 +6331,12 @@
       "iso639_2": "mus",
       "iso639_2en": "mus",
       "iso639_3": "mus",
-      "name": "Creek",
-      "nativeName": "",
+      "name": [
+        "Creek"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5593,8 +6344,12 @@
       "iso639_2": "mwl",
       "iso639_2en": "mwl",
       "iso639_3": "mwl",
-      "name": "Mirandese",
-      "nativeName": "",
+      "name": [
+        "Mirandese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5602,8 +6357,12 @@
       "iso639_2": "mwr",
       "iso639_2en": "mwr",
       "iso639_3": "mwr",
-      "name": "Marwari",
-      "nativeName": "",
+      "name": [
+        "Marwari"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5611,8 +6370,12 @@
       "iso639_2": "myn",
       "iso639_2en": "myn",
       "iso639_3": "myn",
-      "name": "Mayan languages",
-      "nativeName": "",
+      "name": [
+        "Mayan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5620,8 +6383,12 @@
       "iso639_2": "myv",
       "iso639_2en": "myv",
       "iso639_3": "myv",
-      "name": "Erzya",
-      "nativeName": "",
+      "name": [
+        "Erzya"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5629,8 +6396,12 @@
       "iso639_2": "nah",
       "iso639_2en": "nah",
       "iso639_3": "nah",
-      "name": "Nahuatl languages",
-      "nativeName": "",
+      "name": [
+        "Nahuatl languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5638,8 +6409,12 @@
       "iso639_2": "nai",
       "iso639_2en": "nai",
       "iso639_3": "nai",
-      "name": "North American Indian languages",
-      "nativeName": "",
+      "name": [
+        "North American Indian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5647,8 +6422,12 @@
       "iso639_2": "nap",
       "iso639_2en": "nap",
       "iso639_3": "nap",
-      "name": "Neapolitan",
-      "nativeName": "",
+      "name": [
+        "Neapolitan"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5656,8 +6435,15 @@
       "iso639_2": "nds",
       "iso639_2en": "nds",
       "iso639_3": "nds",
-      "name": "Low German; Low Saxon; German, Low; Saxon, Low",
-      "nativeName": "",
+      "name": [
+        "Low German",
+        " Low Saxon",
+        " German, Low",
+        " Saxon, Low"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5665,8 +6451,13 @@
       "iso639_2": "new",
       "iso639_2en": "new",
       "iso639_3": "new",
-      "name": "Nepal Bhasa; Newari",
-      "nativeName": "",
+      "name": [
+        "Nepal Bhasa",
+        " Newari"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5674,8 +6465,12 @@
       "iso639_2": "nia",
       "iso639_2en": "nia",
       "iso639_3": "nia",
-      "name": "Nias",
-      "nativeName": "",
+      "name": [
+        "Nias"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5683,8 +6478,12 @@
       "iso639_2": "nic",
       "iso639_2en": "nic",
       "iso639_3": "nic",
-      "name": "Niger-Kordofanian languages",
-      "nativeName": "",
+      "name": [
+        "Niger-Kordofanian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5692,8 +6491,12 @@
       "iso639_2": "niu",
       "iso639_2en": "niu",
       "iso639_3": "niu",
-      "name": "Niuean",
-      "nativeName": "",
+      "name": [
+        "Niuean"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5701,8 +6504,12 @@
       "iso639_2": "nog",
       "iso639_2en": "nog",
       "iso639_3": "nog",
-      "name": "Nogai",
-      "nativeName": "",
+      "name": [
+        "Nogai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5710,8 +6517,12 @@
       "iso639_2": "non",
       "iso639_2en": "non",
       "iso639_3": "non",
-      "name": "Norse, Old",
-      "nativeName": "",
+      "name": [
+        "Norse, Old"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5719,8 +6530,12 @@
       "iso639_2": "nqo",
       "iso639_2en": "nqo",
       "iso639_3": "nqo",
-      "name": "N'Ko",
-      "nativeName": "",
+      "name": [
+        "N'Ko"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5728,8 +6543,12 @@
       "iso639_2": "nub",
       "iso639_2en": "nub",
       "iso639_3": "nub",
-      "name": "Nubian languages",
-      "nativeName": "",
+      "name": [
+        "Nubian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5737,8 +6556,14 @@
       "iso639_2": "nwc",
       "iso639_2en": "nwc",
       "iso639_3": "nwc",
-      "name": "Classical Newari; Old Newari; Classical Nepal Bhasa",
-      "nativeName": "",
+      "name": [
+        "Classical Newari",
+        " Old Newari",
+        " Classical Nepal Bhasa"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5746,8 +6571,12 @@
       "iso639_2": "nym",
       "iso639_2en": "nym",
       "iso639_3": "nym",
-      "name": "Nyamwezi",
-      "nativeName": "",
+      "name": [
+        "Nyamwezi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5755,8 +6584,12 @@
       "iso639_2": "nyn",
       "iso639_2en": "nyn",
       "iso639_3": "nyn",
-      "name": "Nyankole",
-      "nativeName": "",
+      "name": [
+        "Nyankole"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5764,8 +6597,12 @@
       "iso639_2": "nyo",
       "iso639_2en": "nyo",
       "iso639_3": "nyo",
-      "name": "Nyoro",
-      "nativeName": "",
+      "name": [
+        "Nyoro"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5773,8 +6610,12 @@
       "iso639_2": "nzi",
       "iso639_2en": "nzi",
       "iso639_3": "nzi",
-      "name": "Nzima",
-      "nativeName": "",
+      "name": [
+        "Nzima"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5782,8 +6623,12 @@
       "iso639_2": "osa",
       "iso639_2en": "osa",
       "iso639_3": "osa",
-      "name": "Osage",
-      "nativeName": "",
+      "name": [
+        "Osage"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5791,8 +6636,12 @@
       "iso639_2": "ota",
       "iso639_2en": "ota",
       "iso639_3": "ota",
-      "name": "Turkish, Ottoman (1500-1928)",
-      "nativeName": "",
+      "name": [
+        "Turkish, Ottoman (1500-1928)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5800,8 +6649,12 @@
       "iso639_2": "oto",
       "iso639_2en": "oto",
       "iso639_3": "oto",
-      "name": "Otomian languages",
-      "nativeName": "",
+      "name": [
+        "Otomian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5809,8 +6662,12 @@
       "iso639_2": "paa",
       "iso639_2en": "paa",
       "iso639_3": "paa",
-      "name": "Papuan languages",
-      "nativeName": "",
+      "name": [
+        "Papuan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5818,8 +6675,12 @@
       "iso639_2": "pag",
       "iso639_2en": "pag",
       "iso639_3": "pag",
-      "name": "Pangasinan",
-      "nativeName": "",
+      "name": [
+        "Pangasinan"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5827,8 +6688,12 @@
       "iso639_2": "pal",
       "iso639_2en": "pal",
       "iso639_3": "pal",
-      "name": "Pahlavi",
-      "nativeName": "",
+      "name": [
+        "Pahlavi"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5836,8 +6701,13 @@
       "iso639_2": "pam",
       "iso639_2en": "pam",
       "iso639_3": "pam",
-      "name": "Pampanga; Kapampangan",
-      "nativeName": "",
+      "name": [
+        "Pampanga",
+        " Kapampangan"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5845,17 +6715,29 @@
       "iso639_2": "pap",
       "iso639_2en": "pap",
       "iso639_3": "pap",
-      "name": "Papiamento",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Papiamento"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "ABW",
+        "CUW"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "pau",
       "iso639_2en": "pau",
       "iso639_3": "pau",
-      "name": "Palauan",
-      "nativeName": "",
+      "name": [
+        "Palauan"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5863,8 +6745,12 @@
       "iso639_2": "peo",
       "iso639_2en": "peo",
       "iso639_3": "peo",
-      "name": "Persian, Old (ca.600-400 B.C.)",
-      "nativeName": "",
+      "name": [
+        "Persian, Old (ca.600-400 B.C.)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5872,8 +6758,12 @@
       "iso639_2": "phi",
       "iso639_2en": "phi",
       "iso639_3": "phi",
-      "name": "Philippine languages",
-      "nativeName": "",
+      "name": [
+        "Philippine languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5881,8 +6771,12 @@
       "iso639_2": "phn",
       "iso639_2en": "phn",
       "iso639_3": "phn",
-      "name": "Phoenician",
-      "nativeName": "",
+      "name": [
+        "Phoenician"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5890,8 +6784,12 @@
       "iso639_2": "pon",
       "iso639_2en": "pon",
       "iso639_3": "pon",
-      "name": "Pohnpeian",
-      "nativeName": "",
+      "name": [
+        "Pohnpeian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5899,8 +6797,12 @@
       "iso639_2": "pra",
       "iso639_2en": "pra",
       "iso639_3": "pra",
-      "name": "Prakrit languages",
-      "nativeName": "",
+      "name": [
+        "Prakrit languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5908,8 +6810,13 @@
       "iso639_2": "pro",
       "iso639_2en": "pro",
       "iso639_3": "pro",
-      "name": "Proven�al, Old (to 1500);Occitan, Old (to 1500)",
-      "nativeName": "",
+      "name": [
+        "Proven�al, Old (to 1500)",
+        "Occitan, Old (to 1500)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5917,8 +6824,12 @@
       "iso639_2": "qaa-qtz",
       "iso639_2en": "qaa-qtz",
       "iso639_3": "qaa-qtz",
-      "name": "Reserved for local use",
-      "nativeName": "",
+      "name": [
+        "Reserved for local use"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5926,8 +6837,12 @@
       "iso639_2": "raj",
       "iso639_2en": "raj",
       "iso639_3": "raj",
-      "name": "Rajasthani",
-      "nativeName": "",
+      "name": [
+        "Rajasthani"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5935,8 +6850,12 @@
       "iso639_2": "rap",
       "iso639_2en": "rap",
       "iso639_3": "rap",
-      "name": "Rapanui",
-      "nativeName": "",
+      "name": [
+        "Rapanui"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5944,8 +6863,13 @@
       "iso639_2": "rar",
       "iso639_2en": "rar",
       "iso639_3": "rar",
-      "name": "Rarotongan; Cook Islands Maori",
-      "nativeName": "",
+      "name": [
+        "Rarotongan",
+        " Cook Islands Maori"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5953,8 +6877,12 @@
       "iso639_2": "roa",
       "iso639_2en": "roa",
       "iso639_3": "roa",
-      "name": "Romance languages",
-      "nativeName": "",
+      "name": [
+        "Romance languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5962,8 +6890,12 @@
       "iso639_2": "rom",
       "iso639_2en": "rom",
       "iso639_3": "rom",
-      "name": "Romany",
-      "nativeName": "",
+      "name": [
+        "Romany"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5971,8 +6903,14 @@
       "iso639_2": "rup",
       "iso639_2en": "rup",
       "iso639_3": "rup",
-      "name": "Aromanian; Arumanian; Macedo-Romanian",
-      "nativeName": "",
+      "name": [
+        "Aromanian",
+        " Arumanian",
+        " Macedo-Romanian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5980,8 +6918,12 @@
       "iso639_2": "sad",
       "iso639_2en": "sad",
       "iso639_3": "sad",
-      "name": "Sandawe",
-      "nativeName": "",
+      "name": [
+        "Sandawe"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5989,8 +6931,12 @@
       "iso639_2": "sah",
       "iso639_2en": "sah",
       "iso639_3": "sah",
-      "name": "Yakut",
-      "nativeName": "",
+      "name": [
+        "Yakut"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -5998,8 +6944,12 @@
       "iso639_2": "sai",
       "iso639_2en": "sai",
       "iso639_3": "sai",
-      "name": "South American Indian languages",
-      "nativeName": "",
+      "name": [
+        "South American Indian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6007,8 +6957,12 @@
       "iso639_2": "sal",
       "iso639_2en": "sal",
       "iso639_3": "sal",
-      "name": "Salishan languages",
-      "nativeName": "",
+      "name": [
+        "Salishan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6016,8 +6970,12 @@
       "iso639_2": "sam",
       "iso639_2en": "sam",
       "iso639_3": "sam",
-      "name": "Samaritan Aramaic",
-      "nativeName": "",
+      "name": [
+        "Samaritan Aramaic"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6025,8 +6983,12 @@
       "iso639_2": "sas",
       "iso639_2en": "sas",
       "iso639_3": "sas",
-      "name": "Sasak",
-      "nativeName": "",
+      "name": [
+        "Sasak"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6034,8 +6996,12 @@
       "iso639_2": "sat",
       "iso639_2en": "sat",
       "iso639_3": "sat",
-      "name": "Santali",
-      "nativeName": "",
+      "name": [
+        "Santali"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6043,8 +7009,12 @@
       "iso639_2": "scn",
       "iso639_2en": "scn",
       "iso639_3": "scn",
-      "name": "Sicilian",
-      "nativeName": "",
+      "name": [
+        "Sicilian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6052,8 +7022,12 @@
       "iso639_2": "sco",
       "iso639_2en": "sco",
       "iso639_3": "sco",
-      "name": "Scots",
-      "nativeName": "",
+      "name": [
+        "Scots"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6061,8 +7035,12 @@
       "iso639_2": "sel",
       "iso639_2en": "sel",
       "iso639_3": "sel",
-      "name": "Selkup",
-      "nativeName": "",
+      "name": [
+        "Selkup"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6070,8 +7048,12 @@
       "iso639_2": "sem",
       "iso639_2en": "sem",
       "iso639_3": "sem",
-      "name": "Semitic languages",
-      "nativeName": "",
+      "name": [
+        "Semitic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6079,8 +7061,12 @@
       "iso639_2": "sga",
       "iso639_2en": "sga",
       "iso639_3": "sga",
-      "name": "Irish, Old (to 900)",
-      "nativeName": "",
+      "name": [
+        "Irish, Old (to 900)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6088,8 +7074,12 @@
       "iso639_2": "sgn",
       "iso639_2en": "sgn",
       "iso639_3": "sgn",
-      "name": "Sign Languages",
-      "nativeName": "",
+      "name": [
+        "Sign Languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6097,8 +7087,12 @@
       "iso639_2": "shn",
       "iso639_2en": "shn",
       "iso639_3": "shn",
-      "name": "Shan",
-      "nativeName": "",
+      "name": [
+        "Shan"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6106,8 +7100,12 @@
       "iso639_2": "sid",
       "iso639_2en": "sid",
       "iso639_3": "sid",
-      "name": "Sidamo",
-      "nativeName": "",
+      "name": [
+        "Sidamo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6115,8 +7113,12 @@
       "iso639_2": "sio",
       "iso639_2en": "sio",
       "iso639_3": "sio",
-      "name": "Siouan languages",
-      "nativeName": "",
+      "name": [
+        "Siouan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6124,8 +7126,12 @@
       "iso639_2": "sit",
       "iso639_2en": "sit",
       "iso639_3": "sit",
-      "name": "Sino-Tibetan languages",
-      "nativeName": "",
+      "name": [
+        "Sino-Tibetan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6133,8 +7139,12 @@
       "iso639_2": "sla",
       "iso639_2en": "sla",
       "iso639_3": "sla",
-      "name": "Slavic languages",
-      "nativeName": "",
+      "name": [
+        "Slavic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6142,8 +7152,12 @@
       "iso639_2": "sma",
       "iso639_2en": "sma",
       "iso639_3": "sma",
-      "name": "Southern Sami",
-      "nativeName": "",
+      "name": [
+        "Southern Sami"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6151,8 +7165,12 @@
       "iso639_2": "smi",
       "iso639_2en": "smi",
       "iso639_3": "smi",
-      "name": "Sami languages",
-      "nativeName": "",
+      "name": [
+        "Sami languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6160,8 +7178,12 @@
       "iso639_2": "smj",
       "iso639_2en": "smj",
       "iso639_3": "smj",
-      "name": "Lule Sami",
-      "nativeName": "",
+      "name": [
+        "Lule Sami"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6169,8 +7191,12 @@
       "iso639_2": "smn",
       "iso639_2en": "smn",
       "iso639_3": "smn",
-      "name": "Inari Sami",
-      "nativeName": "",
+      "name": [
+        "Inari Sami"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6178,8 +7204,12 @@
       "iso639_2": "sms",
       "iso639_2en": "sms",
       "iso639_3": "sms",
-      "name": "Skolt Sami",
-      "nativeName": "",
+      "name": [
+        "Skolt Sami"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6187,17 +7217,29 @@
       "iso639_2": "snk",
       "iso639_2en": "snk",
       "iso639_3": "snk",
-      "name": "Soninke",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Soninke"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "MLI",
+        "SEN"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "sog",
       "iso639_2en": "sog",
       "iso639_3": "sog",
-      "name": "Sogdian",
-      "nativeName": "",
+      "name": [
+        "Sogdian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6205,8 +7247,12 @@
       "iso639_2": "son",
       "iso639_2en": "son",
       "iso639_3": "son",
-      "name": "Songhai languages",
-      "nativeName": "",
+      "name": [
+        "Songhai languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6214,8 +7260,12 @@
       "iso639_2": "srn",
       "iso639_2en": "srn",
       "iso639_3": "srn",
-      "name": "Sranan Tongo",
-      "nativeName": "",
+      "name": [
+        "Sranan Tongo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6223,17 +7273,28 @@
       "iso639_2": "srr",
       "iso639_2en": "srr",
       "iso639_3": "srr",
-      "name": "Serer",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Serer"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "SEN"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "ssa",
       "iso639_2en": "ssa",
       "iso639_3": "ssa",
-      "name": "Nilo-Saharan languages",
-      "nativeName": "",
+      "name": [
+        "Nilo-Saharan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6241,8 +7302,12 @@
       "iso639_2": "suk",
       "iso639_2en": "suk",
       "iso639_3": "suk",
-      "name": "Sukuma",
-      "nativeName": "",
+      "name": [
+        "Sukuma"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6250,8 +7315,12 @@
       "iso639_2": "sus",
       "iso639_2en": "sus",
       "iso639_3": "sus",
-      "name": "Susu",
-      "nativeName": "",
+      "name": [
+        "Susu"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6259,8 +7328,12 @@
       "iso639_2": "sux",
       "iso639_2en": "sux",
       "iso639_3": "sux",
-      "name": "Sumerian",
-      "nativeName": "",
+      "name": [
+        "Sumerian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6268,8 +7341,12 @@
       "iso639_2": "syc",
       "iso639_2en": "syc",
       "iso639_3": "syc",
-      "name": "Classical Syriac",
-      "nativeName": "",
+      "name": [
+        "Classical Syriac"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6277,8 +7354,12 @@
       "iso639_2": "syr",
       "iso639_2en": "syr",
       "iso639_3": "syr",
-      "name": "Syriac",
-      "nativeName": "",
+      "name": [
+        "Syriac"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": "",
       "langCultureMs": [
         {
@@ -6293,8 +7374,12 @@
       "iso639_2": "tai",
       "iso639_2en": "tai",
       "iso639_3": "tai",
-      "name": "Tai languages",
-      "nativeName": "",
+      "name": [
+        "Tai languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6302,8 +7387,12 @@
       "iso639_2": "tem",
       "iso639_2en": "tem",
       "iso639_3": "tem",
-      "name": "Timne",
-      "nativeName": "",
+      "name": [
+        "Timne"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6311,8 +7400,12 @@
       "iso639_2": "ter",
       "iso639_2en": "ter",
       "iso639_3": "ter",
-      "name": "Tereno",
-      "nativeName": "",
+      "name": [
+        "Tereno"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6320,17 +7413,28 @@
       "iso639_2": "tet",
       "iso639_2en": "tet",
       "iso639_3": "tet",
-      "name": "Tetum",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Tetum"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "TLS"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "tig",
       "iso639_2en": "tig",
       "iso639_3": "tig",
-      "name": "Tigre",
-      "nativeName": "",
+      "name": [
+        "Tigre"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6338,8 +7442,12 @@
       "iso639_2": "tiv",
       "iso639_2en": "tiv",
       "iso639_3": "tiv",
-      "name": "Tiv",
-      "nativeName": "",
+      "name": [
+        "Tiv"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6347,8 +7455,12 @@
       "iso639_2": "tkl",
       "iso639_2en": "tkl",
       "iso639_3": "tkl",
-      "name": "Tokelau",
-      "nativeName": "",
+      "name": [
+        "Tokelau"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6356,8 +7468,13 @@
       "iso639_2": "tlh",
       "iso639_2en": "tlh",
       "iso639_3": "tlh",
-      "name": "Klingon; tlhIngan-Hol",
-      "nativeName": "",
+      "name": [
+        "Klingon",
+        " tlhIngan-Hol"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6365,8 +7482,12 @@
       "iso639_2": "tli",
       "iso639_2en": "tli",
       "iso639_3": "tli",
-      "name": "Tlingit",
-      "nativeName": "",
+      "name": [
+        "Tlingit"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6374,8 +7495,12 @@
       "iso639_2": "tmh",
       "iso639_2en": "tmh",
       "iso639_3": "tmh",
-      "name": "Tamashek",
-      "nativeName": "",
+      "name": [
+        "Tamashek"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6383,8 +7508,12 @@
       "iso639_2": "tog",
       "iso639_2en": "tog",
       "iso639_3": "tog",
-      "name": "Tonga (Nyasa)",
-      "nativeName": "",
+      "name": [
+        "Tonga (Nyasa)"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6392,17 +7521,28 @@
       "iso639_2": "tpi",
       "iso639_2en": "tpi",
       "iso639_3": "tpi",
-      "name": "Tok Pisin",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Tok Pisin"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "PNG"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "tsi",
       "iso639_2en": "tsi",
       "iso639_3": "tsi",
-      "name": "Tsimshian",
-      "nativeName": "",
+      "name": [
+        "Tsimshian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6410,8 +7550,12 @@
       "iso639_2": "tum",
       "iso639_2en": "tum",
       "iso639_3": "tum",
-      "name": "Tumbuka",
-      "nativeName": "",
+      "name": [
+        "Tumbuka"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6419,8 +7563,12 @@
       "iso639_2": "tup",
       "iso639_2en": "tup",
       "iso639_3": "tup",
-      "name": "Tupi languages",
-      "nativeName": "",
+      "name": [
+        "Tupi languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6428,8 +7576,12 @@
       "iso639_2": "tut",
       "iso639_2en": "tut",
       "iso639_3": "tut",
-      "name": "Altaic languages",
-      "nativeName": "",
+      "name": [
+        "Altaic languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6437,8 +7589,12 @@
       "iso639_2": "tvl",
       "iso639_2en": "tvl",
       "iso639_3": "tvl",
-      "name": "Tuvalu",
-      "nativeName": "",
+      "name": [
+        "Tuvalu"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6446,8 +7602,12 @@
       "iso639_2": "tyv",
       "iso639_2en": "tyv",
       "iso639_3": "tyv",
-      "name": "Tuvinian",
-      "nativeName": "",
+      "name": [
+        "Tuvinian"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6455,8 +7615,12 @@
       "iso639_2": "udm",
       "iso639_2en": "udm",
       "iso639_3": "udm",
-      "name": "Udmurt",
-      "nativeName": "",
+      "name": [
+        "Udmurt"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6464,8 +7628,12 @@
       "iso639_2": "uga",
       "iso639_2en": "uga",
       "iso639_3": "uga",
-      "name": "Ugaritic",
-      "nativeName": "",
+      "name": [
+        "Ugaritic"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6473,17 +7641,28 @@
       "iso639_2": "umb",
       "iso639_2en": "umb",
       "iso639_3": "umb",
-      "name": "Umbundu",
-      "nativeName": "",
-      "family": ""
+      "name": [
+        "Umbundu"
+      ],
+      "nativeName": [
+        ""
+      ],
+      "family": "",
+      "countries": [
+        "AGO"
+      ]
     },
     {
       "iso639_1": "",
       "iso639_2": "und",
       "iso639_2en": "und",
       "iso639_3": "und",
-      "name": "Undetermined",
-      "nativeName": "",
+      "name": [
+        "Undetermined"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6491,8 +7670,12 @@
       "iso639_2": "vai",
       "iso639_2en": "vai",
       "iso639_3": "vai",
-      "name": "Vai",
-      "nativeName": "",
+      "name": [
+        "Vai"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6500,8 +7683,12 @@
       "iso639_2": "vot",
       "iso639_2en": "vot",
       "iso639_3": "vot",
-      "name": "Votic",
-      "nativeName": "",
+      "name": [
+        "Votic"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6509,8 +7696,12 @@
       "iso639_2": "wak",
       "iso639_2en": "wak",
       "iso639_3": "wak",
-      "name": "Wakashan languages",
-      "nativeName": "",
+      "name": [
+        "Wakashan languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6518,8 +7709,13 @@
       "iso639_2": "wal",
       "iso639_2en": "wal",
       "iso639_3": "wal",
-      "name": "Wolaitta; Wolaytta",
-      "nativeName": "",
+      "name": [
+        "Wolaitta",
+        " Wolaytta"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6527,8 +7723,12 @@
       "iso639_2": "war",
       "iso639_2en": "war",
       "iso639_3": "war",
-      "name": "Waray",
-      "nativeName": "",
+      "name": [
+        "Waray"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6536,8 +7736,12 @@
       "iso639_2": "was",
       "iso639_2en": "was",
       "iso639_3": "was",
-      "name": "Washo",
-      "nativeName": "",
+      "name": [
+        "Washo"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6545,8 +7749,12 @@
       "iso639_2": "wen",
       "iso639_2en": "wen",
       "iso639_3": "wen",
-      "name": "Sorbian languages",
-      "nativeName": "",
+      "name": [
+        "Sorbian languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6554,8 +7762,13 @@
       "iso639_2": "xal",
       "iso639_2en": "xal",
       "iso639_3": "xal",
-      "name": "Kalmyk; Oirat",
-      "nativeName": "",
+      "name": [
+        "Kalmyk",
+        " Oirat"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6563,8 +7776,12 @@
       "iso639_2": "yao",
       "iso639_2en": "yao",
       "iso639_3": "yao",
-      "name": "Yao",
-      "nativeName": "",
+      "name": [
+        "Yao"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6572,8 +7789,12 @@
       "iso639_2": "yap",
       "iso639_2en": "yap",
       "iso639_3": "yap",
-      "name": "Yapese",
-      "nativeName": "",
+      "name": [
+        "Yapese"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6581,8 +7802,12 @@
       "iso639_2": "ypk",
       "iso639_2en": "ypk",
       "iso639_3": "ypk",
-      "name": "Yupik languages",
-      "nativeName": "",
+      "name": [
+        "Yupik languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6590,8 +7815,12 @@
       "iso639_2": "zap",
       "iso639_2en": "zap",
       "iso639_3": "zap",
-      "name": "Zapotec",
-      "nativeName": "",
+      "name": [
+        "Zapotec"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6599,8 +7828,14 @@
       "iso639_2": "zbl",
       "iso639_2en": "zbl",
       "iso639_3": "zbl",
-      "name": "Blissymbols; Blissymbolics; Bliss",
-      "nativeName": "",
+      "name": [
+        "Blissymbols",
+        " Blissymbolics",
+        " Bliss"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6608,8 +7843,12 @@
       "iso639_2": "zen",
       "iso639_2en": "zen",
       "iso639_3": "zen",
-      "name": "Zenaga",
-      "nativeName": "",
+      "name": [
+        "Zenaga"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6617,8 +7856,12 @@
       "iso639_2": "zgh",
       "iso639_2en": "zgh",
       "iso639_3": "zgh",
-      "name": "Standard Moroccan Tamazight",
-      "nativeName": "",
+      "name": [
+        "Standard Moroccan Tamazight"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6626,8 +7869,12 @@
       "iso639_2": "znd",
       "iso639_2en": "znd",
       "iso639_3": "znd",
-      "name": "Zande languages",
-      "nativeName": "",
+      "name": [
+        "Zande languages"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6635,8 +7882,12 @@
       "iso639_2": "zun",
       "iso639_2en": "zun",
       "iso639_3": "zun",
-      "name": "Zuni",
-      "nativeName": "",
+      "name": [
+        "Zuni"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6644,8 +7895,13 @@
       "iso639_2": "zxx",
       "iso639_2en": "zxx",
       "iso639_3": "zxx",
-      "name": "No linguistic content; Not applicable",
-      "nativeName": "",
+      "name": [
+        "No linguistic content",
+        " Not applicable"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     },
     {
@@ -6653,8 +7909,17 @@
       "iso639_2": "zza",
       "iso639_2en": "zza",
       "iso639_3": "zza",
-      "name": "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki",
-      "nativeName": "",
+      "name": [
+        "Zaza",
+        " Dimili",
+        " Dimli",
+        " Kirdki",
+        " Kirmanjki",
+        " Zazaki"
+      ],
+      "nativeName": [
+        ""
+      ],
       "family": ""
     }
   ],
@@ -6734,8 +7999,10 @@
       "name": "Angola",
       "languages": [
         "kon",
+        "kmb",
         "kua",
-        "por"
+        "por",
+        "umb"
       ]
     },
     {
@@ -6797,7 +8064,8 @@
       "numCode": "533",
       "name": "Aruba",
       "languages": [
-        "nld"
+        "nld",
+        "pap"
       ]
     },
     {
@@ -7091,7 +8359,8 @@
       "name": "Burkina Faso",
       "languages": [
         "fra",
-        "ful"
+        "ful",
+        "mos"
       ]
     },
     {
@@ -7348,7 +8617,8 @@
       "name": "Curaçao",
       "languages": [
         "nld",
-        "eng"
+        "eng",
+        "pap"
       ]
     },
     {
@@ -7680,7 +8950,8 @@
       "languages": [
         "aka",
         "eng",
-        "ewe"
+        "ewe",
+        "gaa"
       ]
     },
     {
@@ -8427,7 +9698,8 @@
       "languages": [
         "bam",
         "fra",
-        "ful"
+        "ful",
+        "snk"
       ]
     },
     {
@@ -8823,7 +10095,8 @@
       "name": "Papua New Guinea",
       "languages": [
         "eng",
-        "hmo"
+        "hmo",
+        "tpi"
       ]
     },
     {
@@ -9114,6 +10387,8 @@
       "languages": [
         "fra",
         "ful",
+        "srr",
+        "snk",
         "wol"
       ]
     },
@@ -9488,7 +10763,8 @@
       "numCode": "626",
       "name": "Timor-Leste",
       "languages": [
-        "por"
+        "por",
+        "tet"
       ]
     },
     {

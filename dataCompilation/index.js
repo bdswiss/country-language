@@ -54,21 +54,26 @@ function parseAdditionalLanguages (next) {
           var $tds = $(this).children('td')
             , iso639_all = $($tds[0]).html().split('<br>')
             , iso639_2
-            , iso639_2en;
+            , iso639_2en
+            , name_all = $($tds[2]).text()
+            , names = name_all.split(';');
           if (iso639_all.length == 1) {
             iso639_2 = iso639_2en = iso639_all[0];
           } else {
             iso639_2 = iso639_all[1].substr(0, 3);
             iso639_2en = iso639_all[0].substr(0, 3);
           }
+          names.forEach(function (name) {
+            name = name.trim();
+          })
           if (!_.find(obj.languages, function (lang) { return lang.iso639_2 == iso639_2; })) {
             obj.languages.push({
                 iso639_1: ''
               , iso639_2: iso639_2
               , iso639_2en: iso639_2en
               ,iso639_3: iso639_2
-              , name: $($tds[2]).text()
-              , nativeName: ''
+              , name: names
+              , nativeName: ['']
               , family: ''
             });
           }
