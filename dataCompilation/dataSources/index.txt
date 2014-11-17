@@ -8,6 +8,11 @@
       Niger-Congo,Northern Sotho,Sesotho sa Leboa,,nso,nso,nso,,
       Austronesian,Filipino,Filipino,,fil,fil,fil,,
 
+- Source: http://www.loc.gov/standards/iso639-2/php/code_list.php
+          ("Library of Congress: Codes for the Representation of Names of Languages")
+  Description: Complete listing of ISO 639.2 languages
+  Note: Source is used for data enrichement with all ISO 639.2 languages. For the moment there is no data for language native name, groups and also association with countries they are spoken.
+
 - ISO3166_codes.csv
   Source: http://en.wikipedia.org/wiki/ISO_3166-1
           ("Current codes")

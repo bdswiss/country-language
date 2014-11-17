@@ -41,6 +41,43 @@ function parseLanguages (next) {
   });
 }
 
+function parseAdditionalLanguages (next) {
+
+  jsdom.env(
+    'http://www.loc.gov/standards/iso639-2/php/code_list.php',
+    ['http://code.jquery.com/jquery.js'],
+    function (errors, window) {
+      var $ = window.$
+
+      $('tr[valign="top"]').each(function (i) {
+        if (i > 0) {
+          var $tds = $(this).children('td')
+            , iso639_all = $($tds[0]).html().split('<br>')
+            , iso639_2
+            , iso639_2en;
+          if (iso639_all.length == 1) {
+            iso639_2 = iso639_2en = iso639_all[0];
+          } else {
+            iso639_2 = iso639_all[1].substr(0, 3);
+            iso639_2en = iso639_all[0].substr(0, 3);
+          }
+          if (!_.find(obj.languages, function (lang) { return lang.iso639_2 == iso639_2; })) {
+            obj.languages.push({
+                iso639_1: ''
+              , iso639_2: iso639_2
+              , iso639_2en: iso639_2en
+              ,iso639_3: iso639_2
+              , name: $($tds[2]).text()
+              , nativeName: ''
+              , family: ''
+            });
+          }
+        }
+      });
+      next();
+    });
+}
+
 function parseCountries(next) {
   var filePath = __dirname + '/dataSources/ISO3166_codes.csv';
 
@@ -410,6 +447,7 @@ function finish (err) {
 
 async.series([
     parseLanguages
+  , parseAdditionalLanguages
   , parseCountries
   , parseCountryLanguages
   , parseCountryLanguageCultures
