@@ -54,7 +54,10 @@
       "nativeName": [
         "Afaraf"
       ],
-      "family": "Afro-Asiatic"
+      "family": "Afro-Asiatic",
+      "countries": [
+        "DJI"
+      ]
     },
     {
       "iso639_1": "af",
@@ -90,7 +93,10 @@
       "nativeName": [
         "Akan"
       ],
-      "family": "Niger–Congo"
+      "family": "Niger–Congo",
+      "countries": [
+        "GHA"
+      ]
     },
     {
       "iso639_1": "sq",
@@ -159,6 +165,7 @@
         "LBY",
         "MRT",
         "MAR",
+        "NER",
         "OMN",
         "QAT",
         "SAU",
@@ -384,7 +391,10 @@
       "nativeName": [
         "bamanankan"
       ],
-      "family": "Niger–Congo"
+      "family": "Niger–Congo",
+      "countries": [
+        "MLI"
+      ]
     },
     {
       "iso639_1": "ba",
@@ -476,6 +486,7 @@
       ],
       "family": "Afro-Asiatic",
       "countries": [
+        "DZA",
         "MAR"
       ]
     },
@@ -1115,7 +1126,11 @@
       "nativeName": [
         "Eʋegbe"
       ],
-      "family": "Niger–Congo"
+      "family": "Niger–Congo",
+      "countries": [
+        "GHA",
+        "TGO"
+      ]
     },
     {
       "iso639_1": "fo",
@@ -1202,6 +1217,7 @@
         "COM",
         "CIV",
         "COD",
+        "COG",
         "DJI",
         "GNQ",
         "FRA",
@@ -1218,13 +1234,14 @@
         "GAB",
         "GIN",
         "HTI",
+        "ITA",
+        "JEY",
         "LUX",
         "MDG",
         "MLI",
         "MUS",
         "MCO",
         "NER",
-        "COG",
         "RWA",
         "SEN",
         "SYC",
@@ -1281,7 +1298,14 @@
         "Pulaar",
         "Pular"
       ],
-      "family": "Niger–Congo"
+      "family": "Niger–Congo",
+      "countries": [
+        "BEN",
+        "BFA",
+        "MLI",
+        "NER",
+        "SEN"
+      ]
     },
     {
       "iso639_1": "gl",
@@ -1469,6 +1493,7 @@
       ],
       "family": "Afro-Asiatic",
       "countries": [
+        "NER",
         "NGA"
       ]
     },
@@ -1831,7 +1856,10 @@
       "nativeName": [
         "Kanuri"
       ],
-      "family": "Nilo-Saharan"
+      "family": "Nilo-Saharan",
+      "countries": [
+        "NER"
+      ]
     },
     {
       "iso639_1": "ks",
@@ -1968,7 +1996,9 @@
       ],
       "family": "Niger–Congo",
       "countries": [
-        "COD"
+        "AGO",
+        "COD",
+        "COG"
       ]
     },
     {
@@ -2025,7 +2055,10 @@
       "nativeName": [
         "Kuanyama"
       ],
-      "family": "Niger–Congo"
+      "family": "Niger–Congo",
+      "countries": [
+        "AGO"
+      ]
     },
     {
       "iso639_1": "la",
@@ -2345,7 +2378,10 @@
       "nativeName": [
         "Kajin M̧ajeļ"
       ],
-      "family": "Austronesian"
+      "family": "Austronesian",
+      "countries": [
+        "MHL"
+      ]
     },
     {
       "iso639_1": "mn",
@@ -3106,6 +3142,7 @@
       ],
       "family": "Afro-Asiatic",
       "countries": [
+        "DJI",
         "SOM"
       ]
     },
@@ -3387,6 +3424,9 @@
         "తెలుగు"
       ],
       "family": "Dravidian",
+      "countries": [
+        "IND"
+      ],
       "langCultureMs": [
         {
           "langCultureName": "te-IN",
@@ -3817,7 +3857,10 @@
       "nativeName": [
         "Wollof"
       ],
-      "family": "Niger–Congo"
+      "family": "Niger–Congo",
+      "countries": [
+        "SEN"
+      ]
     },
     {
       "iso639_1": "fy",
@@ -3874,6 +3917,7 @@
       ],
       "family": "Niger–Congo",
       "countries": [
+        "BEN",
         "NGA"
       ]
     },
@@ -3952,7 +3996,8 @@
       "numCode": "012",
       "name": "Algeria",
       "languages": [
-        "ara"
+        "ara",
+        "ber"
       ],
       "langCultureMs": [
         {
@@ -3983,6 +4028,8 @@
       "numCode": "024",
       "name": "Angola",
       "languages": [
+        "kon",
+        "kua",
         "por"
       ]
     },
@@ -4206,7 +4253,9 @@
       "numCode": "204",
       "name": "Benin",
       "languages": [
-        "fra"
+        "fra",
+        "ful",
+        "yor"
       ]
     },
     {
@@ -4336,7 +4385,8 @@
       "numCode": "854",
       "name": "Burkina Faso",
       "languages": [
-        "fra"
+        "fra",
+        "ful"
       ]
     },
     {
@@ -4512,6 +4562,7 @@
       "name": "Congo",
       "languages": [
         "fra",
+        "kon",
         "lin"
       ]
     },
@@ -4644,8 +4695,10 @@
       "numCode": "262",
       "name": "Djibouti",
       "languages": [
+        "aar",
         "ara",
-        "fra"
+        "fra",
+        "som"
       ]
     },
     {
@@ -4920,7 +4973,9 @@
       "numCode": "288",
       "name": "Ghana",
       "languages": [
-        "eng"
+        "aka",
+        "eng",
+        "ewe"
       ]
     },
     {
@@ -5126,7 +5181,8 @@
         "guj",
         "hin",
         "pan",
-        "tam"
+        "tam",
+        "tel"
       ],
       "langCultureMs": [
         {
@@ -5272,6 +5328,7 @@
       "numCode": "380",
       "name": "Italy",
       "languages": [
+        "fra",
         "deu",
         "ita"
       ],
@@ -5319,7 +5376,10 @@
       "code_2": "JE",
       "code_3": "JEY",
       "numCode": "832",
-      "name": "Jersey"
+      "name": "Jersey",
+      "languages": [
+        "fra"
+      ]
     },
     {
       "code_2": "JO",
@@ -5660,7 +5720,9 @@
       "numCode": "466",
       "name": "Mali",
       "languages": [
-        "fra"
+        "bam",
+        "fra",
+        "ful"
       ]
     },
     {
@@ -5679,7 +5741,8 @@
       "numCode": "584",
       "name": "Marshall Islands",
       "languages": [
-        "eng"
+        "eng",
+        "mah"
       ]
     },
     {
@@ -5924,7 +5987,11 @@
       "numCode": "562",
       "name": "Niger",
       "languages": [
-        "fra"
+        "ara",
+        "fra",
+        "ful",
+        "hau",
+        "kau"
       ]
     },
     {
@@ -6340,7 +6407,9 @@
       "numCode": "686",
       "name": "Senegal",
       "languages": [
-        "fra"
+        "fra",
+        "ful",
+        "wol"
       ]
     },
     {
@@ -6473,8 +6542,8 @@
       "languages": [
         "afr",
         "eng",
-        "nbl",
         "nde",
+        "nbl",
         "nso",
         "sot",
         "ssw",
@@ -6723,6 +6792,7 @@
       "numCode": "768",
       "name": "Togo",
       "languages": [
+        "ewe",
         "fra"
       ]
     },
