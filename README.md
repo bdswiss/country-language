@@ -94,6 +94,7 @@ Each language object in ```languages``` property includes the following info:
 * ```iso639_3```: language iso639-3 code (3 letters)
 * ```name```: String array with one or more language names (in English)
 * ```nativeName```: String array with one or more language names (in native language)
+* ```direction```: Language script direction (either 'LTR' or 'RTL') - Left-to-Right, Right-to-Left
 * ```family```: language family
 * ```countries```: Array of country objects where this language is spoken
 

@@ -3,7 +3,8 @@ var fs = require('fs')
   , jsdom = require("jsdom")
   , csv = require('csv')
   , _ = require('underscore')
-  , obj = {};
+  , obj = {}
+  , rtl_langs = require('./dataSources/rtl_languages').langs;
 
 _.str = require('underscore.string');
 
@@ -12,10 +13,23 @@ obj.languages = [];
 obj.countries = [];
 obj.locales = [];
 
+
+function setLanguageScriptDirection (iso_1, iso_2, iso_3) {
+  var rtl_1 = _.find(rtl_langs, function (langObj) { return langObj.iso639_1 == iso_1; })
+    , rtl_2 = _.find(rtl_langs, function (langObj) { return langObj.iso639_2 == iso_2; })
+    , rtl_3 = _.find(rtl_langs, function (langObj) { return langObj.iso639_3 == iso_3; })
+    , direction = 'LTR';
+  if (rtl_1 || rtl_2 || rtl_3) {
+    direction = 'RTL';
+  }
+  return direction;
+}
+
 function parseLanguages (next) {
   var langFamily
     , filePath = __dirname + '/dataSources/ISO639_codes.csv'
-    , langName;
+    , langName
+    , iso639_3;
 
   csv()
   .from.path(filePath, { delimiter: ',', escape: '"' })
@@ -24,15 +38,17 @@ function parseLanguages (next) {
     if (!_.find(obj.languageFamilies, function (name) { return name == langFamily; })) {
       obj.languageFamilies.push(langFamily);
     }
+    iso639_3 = _.str.trim(row[6].split('+')[0]);
     langName = row[1].replace(' (modern)', '');
     langName = langName.replace(' (Farsi)', ', Farsi');
     obj.languages.push({
         iso639_1: row[3]
       , iso639_2: row[4]
       , iso639_2en: row[5]
-      , iso639_3: _.str.trim(row[6].split('+')[0])
+      , iso639_3: iso639_3
       , name: strCommaToArray(langName)
       , nativeName: strCommaToArray(row[2])
+      , direction: setLanguageScriptDirection(row[3], row[4], iso639_3)
       , family: langFamily
     });
   })
@@ -48,6 +64,12 @@ function parseAdditionalLanguages (next) {
     ['http://code.jquery.com/jquery.js'],
     function (errors, window) {
       var $ = window.$
+        , tweakLanguage = function (langObj) {
+            if (langObj.iso639_2 == 'bal') {
+              langObj.name.push('Balochi');
+            }
+            return langObj;
+          }
 
       $('tr[valign="top"]').each(function (i) {
         if (i > 0) {
@@ -67,15 +89,16 @@ function parseAdditionalLanguages (next) {
             name = name.trim();
           })
           if (!_.find(obj.languages, function (lang) { return lang.iso639_2 == iso639_2; })) {
-            obj.languages.push({
+            obj.languages.push(tweakLanguage({
                 iso639_1: ''
               , iso639_2: iso639_2
               , iso639_2en: iso639_2en
-              ,iso639_3: iso639_2
+              , iso639_3: iso639_2
               , name: names
               , nativeName: ['']
+              , directrion: setLanguageScriptDirection('', iso639_2, iso639_2)
               , family: ''
-            });
+            }));
           }
         }
       });

@@ -13,6 +13,11 @@
   Description: Complete listing of ISO 639.2 languages
   Note: Source is used for data enrichement with all ISO 639.2 languages. For the moment there is no data for language native name, groups and also association with countries they are spoken.
 
+- Source: http://en.wikipedia.org/wiki/Right-to-left
+          ("Right-to-left")
+  Description: Languages with Right-to-Left writing scripts
+  Note: rtl_languages.js file compiled manually from above list.
+
 - ISO3166_codes.csv
   Source: http://en.wikipedia.org/wiki/ISO_3166-1
           ("Current codes")

@@ -41,6 +41,7 @@
         "аҧсуа бызшәа",
         "аҧсшәа"
       ],
+      "direction": "LTR",
       "family": "Northwest Caucasian"
     },
     {
@@ -54,6 +55,7 @@
       "nativeName": [
         "Afaraf"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "DJI"
@@ -70,6 +72,7 @@
       "nativeName": [
         "Afrikaans"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ZAF"
@@ -93,6 +96,7 @@
       "nativeName": [
         "Akan"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "GHA"
@@ -109,6 +113,7 @@
       "nativeName": [
         "gjuha shqipe"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ALB"
@@ -132,6 +137,7 @@
       "nativeName": [
         "አማርኛ"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "ETH"
@@ -148,6 +154,7 @@
       "nativeName": [
         "العربية"
       ],
+      "direction": "RTL",
       "family": "Afro-Asiatic",
       "countries": [
         "DZA",
@@ -270,6 +277,7 @@
       "nativeName": [
         "aragonés"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -283,6 +291,7 @@
       "nativeName": [
         "Հայերեն"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ARM"
@@ -306,6 +315,7 @@
       "nativeName": [
         "অসমীয়া"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -320,6 +330,7 @@
         "авар мацӀ",
         "магӀарул мацӀ"
       ],
+      "direction": "LTR",
       "family": "Northeast Caucasian"
     },
     {
@@ -333,6 +344,7 @@
       "nativeName": [
         "avesta"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -346,6 +358,7 @@
       "nativeName": [
         "aymar aru"
       ],
+      "direction": "LTR",
       "family": "Aymaran",
       "countries": [
         "BOL",
@@ -363,6 +376,7 @@
       "nativeName": [
         "azərbaycan dili"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "countries": [
         "AZE"
@@ -391,6 +405,7 @@
       "nativeName": [
         "bamanankan"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "MLI"
@@ -407,6 +422,7 @@
       "nativeName": [
         "башҡорт теле"
       ],
+      "direction": "LTR",
       "family": "Turkic"
     },
     {
@@ -421,6 +437,7 @@
         "euskara",
         "euskera"
       ],
+      "direction": "LTR",
       "family": "Language isolate",
       "langCultureMs": [
         {
@@ -441,6 +458,7 @@
       "nativeName": [
         "беларуская мова"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "BLR"
@@ -465,6 +483,7 @@
       "nativeName": [
         "বাংলা"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "BGD",
@@ -484,6 +503,7 @@
         "Tamazight",
         "ⵜⴰⵎⴰⵣⵉⵖⵜ"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "DZA",
@@ -501,6 +521,7 @@
       "nativeName": [
         "भोजपुरी"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -514,6 +535,7 @@
       "nativeName": [
         "Bislama"
       ],
+      "direction": "LTR",
       "family": "Creole",
       "countries": [
         "VUT"
@@ -530,6 +552,7 @@
       "nativeName": [
         "bosanski jezik"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "BIH"
@@ -546,6 +569,7 @@
       "nativeName": [
         "brezhoneg"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -559,6 +583,7 @@
       "nativeName": [
         "български език"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "BGR"
@@ -582,6 +607,7 @@
       "nativeName": [
         "ဗမာစာ"
       ],
+      "direction": "LTR",
       "family": "Sino-Tibetan",
       "countries": [
         "MMR"
@@ -600,6 +626,7 @@
         "català",
         "valencià"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "AND"
@@ -623,6 +650,7 @@
       "nativeName": [
         "Chamoru"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -636,6 +664,7 @@
       "nativeName": [
         "нохчийн мотт"
       ],
+      "direction": "LTR",
       "family": "Northeast Caucasian"
     },
     {
@@ -652,6 +681,7 @@
         "chiCheŵa",
         "chinyanja"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "MWI"
@@ -670,6 +700,7 @@
         "汉语",
         "漢語"
       ],
+      "direction": "LTR",
       "family": "Sino-Tibetan",
       "countries": [
         "HKG",
@@ -727,6 +758,7 @@
       "nativeName": [
         "чӑваш чӗлхи"
       ],
+      "direction": "LTR",
       "family": "Turkic"
     },
     {
@@ -740,6 +772,7 @@
       "nativeName": [
         "Kernewek"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -754,6 +787,7 @@
         "corsu",
         "lingua corsa"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -767,6 +801,7 @@
       "nativeName": [
         "ᓀᐦᐃᔭᐍᐏᐣ"
       ],
+      "direction": "LTR",
       "family": "Algonquian"
     },
     {
@@ -780,6 +815,7 @@
       "nativeName": [
         "hrvatski jezik"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "HRV",
@@ -805,6 +841,7 @@
         "čeština",
         "český jazyk"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "CZE",
@@ -829,6 +866,7 @@
       "nativeName": [
         "dansk"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "DNK",
@@ -853,6 +891,7 @@
       "nativeName": [
         "فارسی دری"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "AFG"
@@ -871,6 +910,7 @@
       "nativeName": [
         "ދިވެހި"
       ],
+      "direction": "RTL",
       "family": "Indo-European",
       "countries": [
         "MDV"
@@ -895,6 +935,7 @@
         "Nederlands",
         "Vlaams"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "BEL",
@@ -928,6 +969,7 @@
       "nativeName": [
         "རྫོང་ཁ"
       ],
+      "direction": "LTR",
       "family": "Sino-Tibetan",
       "countries": [
         "BTN"
@@ -944,6 +986,7 @@
       "nativeName": [
         "English"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ATG",
@@ -1089,6 +1132,7 @@
       "nativeName": [
         "Esperanto"
       ],
+      "direction": "LTR",
       "family": "Constructed"
     },
     {
@@ -1103,6 +1147,7 @@
         "eesti",
         "eesti keel"
       ],
+      "direction": "LTR",
       "family": "Uralic",
       "countries": [
         "EST"
@@ -1126,6 +1171,7 @@
       "nativeName": [
         "Eʋegbe"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "GHA",
@@ -1143,6 +1189,7 @@
       "nativeName": [
         "føroyskt"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "langCultureMs": [
         {
@@ -1163,6 +1210,7 @@
       "nativeName": [
         "vosa Vakaviti"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "FJI"
@@ -1180,6 +1228,7 @@
         "suomi",
         "suomen kieli"
       ],
+      "direction": "LTR",
       "family": "Uralic",
       "countries": [
         "FIN"
@@ -1204,6 +1253,7 @@
         "français",
         "langue française"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "BEL",
@@ -1298,6 +1348,7 @@
         "Pulaar",
         "Pular"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "BEN",
@@ -1318,6 +1369,7 @@
       "nativeName": [
         "galego"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "langCultureMs": [
         {
@@ -1338,6 +1390,7 @@
       "nativeName": [
         "ქართული"
       ],
+      "direction": "LTR",
       "family": "South Caucasian",
       "countries": [
         "GEO"
@@ -1361,6 +1414,7 @@
       "nativeName": [
         "Deutsch"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "AUT",
@@ -1410,6 +1464,7 @@
       "nativeName": [
         "ελληνικά"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "GRC",
@@ -1434,6 +1489,7 @@
       "nativeName": [
         "Avañe'ẽ"
       ],
+      "direction": "LTR",
       "family": "Tupian",
       "countries": [
         "PRY",
@@ -1451,6 +1507,7 @@
       "nativeName": [
         "ગુજરાતી"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "IND"
@@ -1475,6 +1532,7 @@
       "nativeName": [
         "Kreyòl ayisyen"
       ],
+      "direction": "LTR",
       "family": "Creole",
       "countries": [
         "HTI"
@@ -1491,6 +1549,7 @@
       "nativeName": [
         "(Hausa) هَوُسَ"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "NER",
@@ -1508,6 +1567,7 @@
       "nativeName": [
         "עברית"
       ],
+      "direction": "RTL",
       "family": "Afro-Asiatic",
       "countries": [
         "ISR"
@@ -1531,6 +1591,7 @@
       "nativeName": [
         "Otjiherero"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo"
     },
     {
@@ -1545,6 +1606,7 @@
         "हिन्दी",
         "हिंदी"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "IND",
@@ -1569,6 +1631,7 @@
       "nativeName": [
         "Hiri Motu"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "PNG"
@@ -1585,6 +1648,7 @@
       "nativeName": [
         "magyar"
       ],
+      "direction": "LTR",
       "family": "Uralic",
       "countries": [
         "HUN"
@@ -1608,6 +1672,7 @@
       "nativeName": [
         "Interlingua"
       ],
+      "direction": "LTR",
       "family": "Constructed"
     },
     {
@@ -1621,6 +1686,7 @@
       "nativeName": [
         "Bahasa Indonesia"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "IDN"
@@ -1644,6 +1710,7 @@
       "nativeName": [
         "Interlingue"
       ],
+      "direction": "LTR",
       "family": "Constructed"
     },
     {
@@ -1657,6 +1724,7 @@
       "nativeName": [
         "Gaeilge"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "IRL"
@@ -1673,6 +1741,7 @@
       "nativeName": [
         "Asụsụ Igbo"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "NGA"
@@ -1690,6 +1759,7 @@
         "Iñupiaq",
         "Iñupiatun"
       ],
+      "direction": "LTR",
       "family": "Eskimo–Aleut"
     },
     {
@@ -1703,6 +1773,7 @@
       "nativeName": [
         "Ido"
       ],
+      "direction": "LTR",
       "family": "Constructed"
     },
     {
@@ -1716,6 +1787,7 @@
       "nativeName": [
         "Íslenska"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ISL"
@@ -1739,6 +1811,7 @@
       "nativeName": [
         "italiano"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ITA",
@@ -1772,6 +1845,7 @@
       "nativeName": [
         "ᐃᓄᒃᑎᑐᑦ"
       ],
+      "direction": "LTR",
       "family": "Eskimo–Aleut"
     },
     {
@@ -1785,6 +1859,7 @@
       "nativeName": [
         "日本語 (にほんご)"
       ],
+      "direction": "LTR",
       "family": "Japonic",
       "countries": [
         "JPN"
@@ -1808,6 +1883,7 @@
       "nativeName": [
         "basa Jawa"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -1823,6 +1899,7 @@
         "kalaallisut",
         "kalaallit oqaasii"
       ],
+      "direction": "LTR",
       "family": "Eskimo–Aleut"
     },
     {
@@ -1836,6 +1913,7 @@
       "nativeName": [
         "ಕನ್ನಡ"
       ],
+      "direction": "LTR",
       "family": "Dravidian",
       "langCultureMs": [
         {
@@ -1856,6 +1934,7 @@
       "nativeName": [
         "Kanuri"
       ],
+      "direction": "LTR",
       "family": "Nilo-Saharan",
       "countries": [
         "NER"
@@ -1873,6 +1952,7 @@
         "कश्मीरी",
         "كشميري‎"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -1886,6 +1966,7 @@
       "nativeName": [
         "қазақ тілі"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "countries": [
         "KAZ"
@@ -1911,6 +1992,7 @@
         "ខេមរភាសា",
         "ភាសាខ្មែរ"
       ],
+      "direction": "LTR",
       "family": "Austroasiatic",
       "countries": [
         "KHM"
@@ -1928,6 +2010,7 @@
       "nativeName": [
         "Gĩkũyũ"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo"
     },
     {
@@ -1941,6 +2024,7 @@
       "nativeName": [
         "Ikinyarwanda"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "RWA"
@@ -1958,6 +2042,7 @@
         "Кыргызча",
         "Кыргыз тили"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "countries": [
         "KGZ"
@@ -1981,6 +2066,7 @@
       "nativeName": [
         "коми кыв"
       ],
+      "direction": "LTR",
       "family": "Uralic"
     },
     {
@@ -1994,6 +2080,7 @@
       "nativeName": [
         "Kikongo"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "AGO",
@@ -2013,6 +2100,7 @@
         "한국어",
         "조선어"
       ],
+      "direction": "LTR",
       "family": "Koreanic",
       "countries": [
         "PRK",
@@ -2038,6 +2126,7 @@
         "Kurdî",
         "كوردی‎"
       ],
+      "direction": "RTL",
       "family": "Indo-European",
       "countries": [
         "IRQ"
@@ -2055,6 +2144,7 @@
       "nativeName": [
         "Kuanyama"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "AGO"
@@ -2072,6 +2162,7 @@
         "latine",
         "lingua latina"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "VAT"
@@ -2089,6 +2180,7 @@
       "nativeName": [
         "Lëtzebuergesch"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "LUX"
@@ -2105,6 +2197,7 @@
       "nativeName": [
         "Luganda"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo"
     },
     {
@@ -2120,6 +2213,7 @@
       "nativeName": [
         "Limburgs"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2133,6 +2227,7 @@
       "nativeName": [
         "Lingála"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "COD",
@@ -2150,6 +2245,7 @@
       "nativeName": [
         "ພາສາລາວ"
       ],
+      "direction": "LTR",
       "family": "Tai–Kadai",
       "countries": [
         "LAO"
@@ -2166,6 +2262,7 @@
       "nativeName": [
         "lietuvių kalba"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "LTU"
@@ -2189,6 +2286,7 @@
       "nativeName": [
         "Tshiluba"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "COD"
@@ -2205,6 +2303,7 @@
       "nativeName": [
         "latviešu valoda"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "LVA"
@@ -2229,6 +2328,7 @@
         "Gaelg",
         "Gailck"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2242,6 +2342,7 @@
       "nativeName": [
         "македонски јазик"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "MKD"
@@ -2265,6 +2366,7 @@
       "nativeName": [
         "fiteny malagasy"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "MDG"
@@ -2282,6 +2384,7 @@
         "bahasa Melayu",
         "بهاس ملايو‎"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "MYS",
@@ -2313,6 +2416,7 @@
       "nativeName": [
         "മലയാളം"
       ],
+      "direction": "LTR",
       "family": "Dravidian"
     },
     {
@@ -2326,6 +2430,7 @@
       "nativeName": [
         "Malti"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "MLT"
@@ -2342,6 +2447,7 @@
       "nativeName": [
         "te reo Māori"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "NZL"
@@ -2358,6 +2464,7 @@
       "nativeName": [
         "मराठी"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "langCultureMs": [
         {
@@ -2378,6 +2485,7 @@
       "nativeName": [
         "Kajin M̧ajeļ"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "MHL"
@@ -2394,6 +2502,7 @@
       "nativeName": [
         "монгол"
       ],
+      "direction": "LTR",
       "family": "Mongolic",
       "countries": [
         "MNG"
@@ -2417,6 +2526,7 @@
       "nativeName": [
         "Ekakairũ Naoero"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -2432,6 +2542,7 @@
         "Diné bizaad",
         "Dinékʼehǰí"
       ],
+      "direction": "LTR",
       "family": "Dené–Yeniseian"
     },
     {
@@ -2445,6 +2556,7 @@
       "nativeName": [
         "Norsk bokmål"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "NOR"
@@ -2468,6 +2580,7 @@
       "nativeName": [
         "isiNdebele"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZAF",
@@ -2485,6 +2598,7 @@
       "nativeName": [
         "Sesotho sa Leboa"
       ],
+      "direction": "LTR",
       "family": "Niger-Congo",
       "countries": [
         "ZAF"
@@ -2501,6 +2615,7 @@
       "nativeName": [
         "नेपाली"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "NPL"
@@ -2517,6 +2632,7 @@
       "nativeName": [
         "Owambo"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo"
     },
     {
@@ -2530,6 +2646,7 @@
       "nativeName": [
         "Norsk nynorsk"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "NOR"
@@ -2553,6 +2670,7 @@
       "nativeName": [
         "Norsk"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "NOR"
@@ -2569,6 +2687,7 @@
       "nativeName": [
         "Nuosuhxop"
       ],
+      "direction": "LTR",
       "family": "Sino-Tibetan"
     },
     {
@@ -2582,6 +2701,7 @@
       "nativeName": [
         "isiNdebele"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZAF"
@@ -2599,6 +2719,7 @@
         "occitan",
         "lenga d'òc"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2613,6 +2734,7 @@
       "nativeName": [
         "ᐊᓂᔑᓈᐯᒧᐎᓐ"
       ],
+      "direction": "LTR",
       "family": "Algonquian"
     },
     {
@@ -2628,6 +2750,7 @@
       "nativeName": [
         "ѩзыкъ словѣньскъ"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2641,6 +2764,7 @@
       "nativeName": [
         "Afaan Oromoo"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic"
     },
     {
@@ -2654,6 +2778,7 @@
       "nativeName": [
         "ଓଡ଼ିଆ"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2668,6 +2793,7 @@
       "nativeName": [
         "ирон æвзаг"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": []
     },
@@ -2684,6 +2810,7 @@
         "ਪੰਜਾਬੀ",
         "پنجابی‎"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "IND"
@@ -2707,6 +2834,7 @@
       "nativeName": [
         "पाऴि"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2721,6 +2849,7 @@
       "nativeName": [
         "فارسی"
       ],
+      "direction": "RTL",
       "family": "Indo-European",
       "countries": [
         "IRN",
@@ -2747,6 +2876,7 @@
         "język polski",
         "polszczyzna"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "POL"
@@ -2771,6 +2901,7 @@
       "nativeName": [
         "پښتو"
       ],
+      "direction": "RTL",
       "family": "Indo-European",
       "countries": [
         "AFG"
@@ -2787,6 +2918,7 @@
       "nativeName": [
         "português"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "AGO",
@@ -2825,6 +2957,7 @@
         "Runa Simi",
         "Kichwa"
       ],
+      "direction": "LTR",
       "family": "Quechuan",
       "countries": [
         "BOL",
@@ -2842,6 +2975,7 @@
       "nativeName": [
         "rumantsch grischun"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "CHE"
@@ -2858,6 +2992,7 @@
       "nativeName": [
         "Ikirundi"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "BDI"
@@ -2874,6 +3009,7 @@
       "nativeName": [
         "limba română"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ROU",
@@ -2898,6 +3034,7 @@
       "nativeName": [
         "русский язык"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "RUS",
@@ -2925,6 +3062,7 @@
       "nativeName": [
         "संस्कृतम्"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "langCultureMs": [
         {
@@ -2945,6 +3083,7 @@
       "nativeName": [
         "sardu"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -2959,6 +3098,7 @@
         "सिन्धी",
         "سنڌي، سندھی‎"
       ],
+      "direction": "RTL",
       "family": "Indo-European"
     },
     {
@@ -2972,6 +3112,7 @@
       "nativeName": [
         "Davvisámegiella"
       ],
+      "direction": "LTR",
       "family": "Uralic"
     },
     {
@@ -2985,6 +3126,7 @@
       "nativeName": [
         "gagana fa'a Samoa"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -2998,6 +3140,7 @@
       "nativeName": [
         "yângâ tî sängö"
       ],
+      "direction": "LTR",
       "family": "Creole",
       "countries": [
         "CAF"
@@ -3014,6 +3157,7 @@
       "nativeName": [
         "српски језик"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "SRB",
@@ -3044,6 +3188,7 @@
       "nativeName": [
         "Gàidhlig"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -3057,6 +3202,7 @@
       "nativeName": [
         "chiShona"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZWE"
@@ -3074,6 +3220,7 @@
       "nativeName": [
         "සිංහල"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "LKA"
@@ -3091,6 +3238,7 @@
         "slovenčina",
         "slovenský jazyk"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "SVK",
@@ -3116,6 +3264,7 @@
         "slovenski jezik",
         "slovenščina"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "SVN"
@@ -3140,6 +3289,7 @@
         "Soomaaliga",
         "af Soomaali"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "DJI",
@@ -3157,6 +3307,7 @@
       "nativeName": [
         "Sesotho"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "LSO",
@@ -3176,6 +3327,7 @@
         "español",
         "castellano"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "ARG",
@@ -3310,6 +3462,7 @@
       "nativeName": [
         "Basa Sunda"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -3323,6 +3476,7 @@
       "nativeName": [
         "Kiswahili"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "COD",
@@ -3349,6 +3503,7 @@
       "nativeName": [
         "SiSwati"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "SWZ",
@@ -3366,6 +3521,7 @@
       "nativeName": [
         "Svenska"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "SWE",
@@ -3396,6 +3552,7 @@
       "nativeName": [
         "தமிழ்"
       ],
+      "direction": "LTR",
       "family": "Dravidian",
       "countries": [
         "IND",
@@ -3423,6 +3580,7 @@
       "nativeName": [
         "తెలుగు"
       ],
+      "direction": "LTR",
       "family": "Dravidian",
       "countries": [
         "IND"
@@ -3448,6 +3606,7 @@
         "toğikī",
         "تاجیکی‎"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "TJK"
@@ -3464,6 +3623,7 @@
       "nativeName": [
         "ไทย"
       ],
+      "direction": "LTR",
       "family": "Tai–Kadai",
       "countries": [
         "THA"
@@ -3487,6 +3647,7 @@
       "nativeName": [
         "ትግርኛ"
       ],
+      "direction": "LTR",
       "family": "Afro-Asiatic",
       "countries": [
         "ERI"
@@ -3505,6 +3666,7 @@
       "nativeName": [
         "བོད་ཡིག"
       ],
+      "direction": "LTR",
       "family": "Sino-Tibetan"
     },
     {
@@ -3519,6 +3681,7 @@
         "Türkmen",
         "Түркмен"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "countries": [
         "TKM"
@@ -3535,6 +3698,7 @@
       "nativeName": [
         "Wikang Tagalog"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "PHL"
@@ -3551,6 +3715,7 @@
       "nativeName": [
         "Filipino"
       ],
+      "direction": "LTR",
       "family": "Austronesian",
       "countries": [
         "PHL"
@@ -3567,6 +3732,7 @@
       "nativeName": [
         "Setswana"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "BWA",
@@ -3584,6 +3750,7 @@
       "nativeName": [
         "faka Tonga"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -3597,6 +3764,7 @@
       "nativeName": [
         "Türkçe"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "countries": [
         "TUR",
@@ -3621,6 +3789,7 @@
       "nativeName": [
         "Xitsonga"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZAF"
@@ -3638,6 +3807,7 @@
         "татар теле",
         "tatar tele"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "langCultureMs": [
         {
@@ -3658,6 +3828,7 @@
       "nativeName": [
         "Twi"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo"
     },
     {
@@ -3671,6 +3842,7 @@
       "nativeName": [
         "Reo Tahiti"
       ],
+      "direction": "LTR",
       "family": "Austronesian"
     },
     {
@@ -3686,6 +3858,7 @@
         "Uyƣurqə",
         "ئۇيغۇرچە‎"
       ],
+      "direction": "RTL",
       "family": "Turkic"
     },
     {
@@ -3699,6 +3872,7 @@
       "nativeName": [
         "українська мова"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "UKR"
@@ -3722,6 +3896,7 @@
       "nativeName": [
         "اردو"
       ],
+      "direction": "RTL",
       "family": "Indo-European",
       "countries": [
         "PAK",
@@ -3748,6 +3923,7 @@
         "Ўзбек",
         "أۇزبېك‎"
       ],
+      "direction": "LTR",
       "family": "Turkic",
       "countries": [
         "UZB"
@@ -3776,6 +3952,7 @@
       "nativeName": [
         "Tshivenḓa"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZAF"
@@ -3792,6 +3969,7 @@
       "nativeName": [
         "Tiếng Việt"
       ],
+      "direction": "LTR",
       "family": "Austroasiatic",
       "countries": [
         "VNM"
@@ -3815,6 +3993,7 @@
       "nativeName": [
         "Volapük"
       ],
+      "direction": "LTR",
       "family": "Constructed"
     },
     {
@@ -3828,6 +4007,7 @@
       "nativeName": [
         "walon"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -3841,6 +4021,7 @@
       "nativeName": [
         "Cymraeg"
       ],
+      "direction": "LTR",
       "family": "Indo-European",
       "countries": [
         "GBR"
@@ -3857,6 +4038,7 @@
       "nativeName": [
         "Wollof"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "SEN"
@@ -3873,6 +4055,7 @@
       "nativeName": [
         "Frysk"
       ],
+      "direction": "LTR",
       "family": "Indo-European"
     },
     {
@@ -3886,6 +4069,7 @@
       "nativeName": [
         "isiXhosa"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZAF"
@@ -3902,6 +4086,7 @@
       "nativeName": [
         "ייִדיש"
       ],
+      "direction": "RTL",
       "family": "Indo-European"
     },
     {
@@ -3915,6 +4100,7 @@
       "nativeName": [
         "Yorùbá"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "BEN",
@@ -3934,6 +4120,7 @@
         "Saɯ cueŋƅ",
         "Saw cuengh"
       ],
+      "direction": "LTR",
       "family": "Tai–Kadai"
     },
     {
@@ -3947,6 +4134,7 @@
       "nativeName": [
         "isiZulu"
       ],
+      "direction": "LTR",
       "family": "Niger–Congo",
       "countries": [
         "ZAF"
@@ -3963,6 +4151,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -3976,6 +4165,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -3989,6 +4179,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4003,6 +4194,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4016,6 +4208,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4029,6 +4222,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4042,6 +4236,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4055,6 +4250,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4068,6 +4264,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4081,6 +4278,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4094,6 +4292,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4107,6 +4306,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4120,6 +4320,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4133,6 +4334,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4147,6 +4349,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "RTL",
       "family": ""
     },
     {
@@ -4161,6 +4364,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4174,6 +4378,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4187,6 +4392,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4200,6 +4406,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4216,6 +4423,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4229,6 +4437,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4242,6 +4451,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4255,6 +4465,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4268,6 +4479,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4281,6 +4493,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4289,11 +4502,13 @@
       "iso639_2en": "bal",
       "iso639_3": "bal",
       "name": [
-        "Baluchi"
+        "Baluchi",
+        "Balochi"
       ],
       "nativeName": [
         ""
       ],
+      "directrion": "RTL",
       "family": ""
     },
     {
@@ -4307,6 +4522,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4320,6 +4536,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4333,6 +4550,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4347,6 +4565,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4360,6 +4579,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4373,6 +4593,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4386,6 +4607,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4400,6 +4622,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4413,6 +4636,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4426,6 +4650,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4439,6 +4664,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4452,6 +4678,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4465,6 +4692,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4478,6 +4706,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4492,6 +4721,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4505,6 +4735,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4518,6 +4749,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4531,6 +4763,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4544,6 +4777,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4557,6 +4791,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4570,6 +4805,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4583,6 +4819,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4596,6 +4833,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4609,6 +4847,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4622,6 +4861,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4635,6 +4875,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4648,6 +4889,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4662,6 +4904,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4675,6 +4918,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4688,6 +4932,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4701,6 +4946,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4714,6 +4960,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4727,6 +4974,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4740,6 +4988,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4753,6 +5002,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4767,6 +5017,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4780,6 +5031,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4793,6 +5045,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4806,6 +5059,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4819,6 +5073,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4832,6 +5087,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4845,6 +5101,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4858,6 +5115,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4871,6 +5129,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4884,6 +5143,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4897,6 +5157,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4910,6 +5171,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4923,6 +5185,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4936,6 +5199,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4949,6 +5213,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4962,6 +5227,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4975,6 +5241,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -4988,6 +5255,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5001,6 +5269,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5014,6 +5283,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5027,6 +5297,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5040,6 +5311,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5053,6 +5325,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5066,6 +5339,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5079,6 +5353,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5092,6 +5367,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5105,6 +5381,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5118,6 +5395,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5131,6 +5409,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5144,6 +5423,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5157,6 +5437,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5170,6 +5451,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5183,6 +5465,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "GHA"
@@ -5199,6 +5482,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5212,6 +5496,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5225,6 +5510,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5238,6 +5524,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5251,6 +5538,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5264,6 +5552,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5277,6 +5566,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5290,6 +5580,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5303,6 +5594,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5316,6 +5608,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5329,6 +5622,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5342,6 +5636,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5357,6 +5652,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5370,6 +5666,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5383,6 +5680,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5396,6 +5694,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5409,6 +5708,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5423,6 +5723,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5436,6 +5737,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5450,6 +5752,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5463,6 +5766,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5476,6 +5780,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5489,6 +5794,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5502,6 +5808,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5515,6 +5822,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5528,6 +5836,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5541,6 +5850,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5554,6 +5864,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5567,6 +5878,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5580,6 +5892,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5593,6 +5906,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5606,6 +5920,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5619,6 +5934,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5632,6 +5948,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5645,6 +5962,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5659,6 +5977,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5672,6 +5991,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5685,6 +6005,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5698,6 +6019,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5711,6 +6033,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5724,6 +6047,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5737,6 +6061,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5751,6 +6076,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5764,6 +6090,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "AGO"
@@ -5780,6 +6107,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "langCultureMs": [
         {
@@ -5800,6 +6128,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5813,6 +6142,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5826,6 +6156,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5839,6 +6170,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5852,6 +6184,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5865,6 +6198,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5878,6 +6212,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5891,6 +6226,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5904,6 +6240,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5917,6 +6254,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5930,6 +6268,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5943,6 +6282,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5956,6 +6296,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5969,6 +6310,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5982,6 +6324,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -5995,6 +6338,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6008,6 +6352,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6021,6 +6366,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6034,6 +6380,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6047,6 +6394,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6060,6 +6408,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6073,6 +6422,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6086,6 +6436,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6099,6 +6450,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6112,6 +6464,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6125,6 +6478,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6138,6 +6492,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6151,6 +6506,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6164,6 +6520,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6177,6 +6534,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6191,6 +6549,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6204,6 +6563,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6217,6 +6577,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6230,6 +6591,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6243,6 +6605,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6256,6 +6619,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6269,6 +6633,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6282,6 +6647,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6295,6 +6661,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "BFA"
@@ -6311,6 +6678,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6324,6 +6692,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6337,6 +6706,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6350,6 +6720,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6363,6 +6734,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6376,6 +6748,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6389,6 +6762,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6402,6 +6776,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6415,6 +6790,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6428,6 +6804,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6444,6 +6821,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6458,6 +6836,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6471,6 +6850,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6484,6 +6864,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6497,6 +6878,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6510,6 +6892,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6523,6 +6906,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6536,6 +6920,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6549,6 +6934,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6564,6 +6950,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6577,6 +6964,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6590,6 +6978,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6603,6 +6992,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6616,6 +7006,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6629,6 +7020,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6642,6 +7034,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6655,6 +7048,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6668,6 +7062,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6681,6 +7076,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6694,6 +7090,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6708,6 +7105,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6721,6 +7119,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "ABW",
@@ -6738,6 +7137,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6751,6 +7151,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6764,6 +7165,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6777,6 +7179,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6790,6 +7193,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6803,6 +7207,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6817,6 +7222,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6830,6 +7236,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6843,6 +7250,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6856,6 +7264,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6870,6 +7279,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6883,6 +7293,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6896,6 +7307,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6911,6 +7323,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6924,6 +7337,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6937,6 +7351,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6950,6 +7365,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6963,6 +7379,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6976,6 +7393,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -6989,6 +7407,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7002,6 +7421,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7015,6 +7435,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7028,6 +7449,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7041,6 +7463,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7054,6 +7477,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7067,6 +7491,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7080,6 +7505,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7093,6 +7519,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7106,6 +7533,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7119,6 +7547,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7132,6 +7561,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7145,6 +7575,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7158,6 +7589,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7171,6 +7603,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7184,6 +7617,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7197,6 +7631,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7210,6 +7645,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7223,6 +7659,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "MLI",
@@ -7240,6 +7677,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7253,6 +7691,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7266,6 +7705,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7279,6 +7719,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "SEN"
@@ -7295,6 +7736,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7308,6 +7750,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7321,6 +7764,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7334,6 +7778,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7347,6 +7792,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7360,6 +7806,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "langCultureMs": [
         {
@@ -7380,6 +7827,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7393,6 +7841,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7406,6 +7855,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7419,6 +7869,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "TLS"
@@ -7435,6 +7886,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7448,6 +7900,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7461,6 +7914,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7475,6 +7929,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7488,6 +7943,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7501,6 +7957,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7514,6 +7971,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7527,6 +7985,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "PNG"
@@ -7543,6 +8002,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7556,6 +8016,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7569,6 +8030,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7582,6 +8044,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7595,6 +8058,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7608,6 +8072,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7621,6 +8086,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7634,6 +8100,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7647,6 +8114,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": "",
       "countries": [
         "AGO"
@@ -7663,6 +8131,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7676,6 +8145,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7689,6 +8159,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7702,6 +8173,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7716,6 +8188,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7729,6 +8202,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7742,6 +8216,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7755,6 +8230,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7769,6 +8245,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7782,6 +8259,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7795,6 +8273,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7808,6 +8287,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7821,6 +8301,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7836,6 +8317,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7849,6 +8331,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7862,6 +8345,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7875,6 +8359,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7888,6 +8373,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7902,6 +8388,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     },
     {
@@ -7920,6 +8407,7 @@
       "nativeName": [
         ""
       ],
+      "directrion": "LTR",
       "family": ""
     }
   ],
