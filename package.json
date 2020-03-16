@@ -7,8 +7,11 @@
     "underscore": "~1.7.0",
     "underscore.deep": "~0.5.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
   "scripts": {
+    "check": "tsc",
     "test": "make test"
   },
   "keywords": [
