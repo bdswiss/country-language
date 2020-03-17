@@ -8,7 +8,7 @@
     "csv": "~0.3.7",
     "underscore": "~1.6.0",
     "underscore.string": "~2.3.3",
-    "jsdom": "~0.10.5"
+    "jsdom": "~4.5.2"
   },
   "devDependencies": {},
   "keywords": [

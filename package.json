@@ -3,15 +3,24 @@
   "version": "0.1.7",
   "description": "Query languages spoken to a country or countries where people speak a language.",
   "main": "index.js",
+  "types": "index.d.ts",
   "dependencies": {
     "underscore": "~1.7.0",
     "underscore.deep": "~0.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.1",
+    "@typescript-eslint/eslint-plugin": "^2.24.0",
+    "@typescript-eslint/parser": "^2.24.0",
+    "eslint": "^6.8.0",
+    "typescript": "^3.8.3"
   },
   "devDependencies": {
     "typescript": "^3.8.3"
   },
   "scripts": {
     "check": "tsc",
+    "lint": "eslint --fix .",
     "test": "make test"
   },
   "keywords": [
