@@ -1,5 +1,5 @@
 exports.langs = [
-    { iso639_1: 'ar' } // Arabic
+  { iso639_1: 'ar' } // Arabic
   , { iso639_2: 'arc' } // Aramaic
   , { iso639_3: 'bcc', iso639_2: 'bal' } // Southern Balochi
   , { iso639_3: 'bqi' } // Bakthiari
@@ -16,4 +16,4 @@ exports.langs = [
   , { iso639_1: 'ug' } // Uyghur
   , { iso639_1: 'ur' } // Urdu
   , { iso639_1: 'yi' } // Yiddish
-]
+];

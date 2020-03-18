@@ -1,3 +1,4 @@
+// eslint-disable-next-line @typescript-eslint/no-var-requires
 var _ = require('underscore')
   , _d = require('underscore.deep')
   , utils = require('./utils')
@@ -28,7 +29,7 @@ exports.getLanguageCodes = function (codeType, cb) {
     , cTypeNames = [ 'iso639_1', 'iso639_2en', 'iso639_3']
     , codes = [];
 
-  cb = cb || utils.isFunction(codeType) ? codeType : noop;
+  cb = cb || (utils.isFunction(codeType) ? codeType : noop);
 
   codeType = (codeType && !utils.isFunction(codeType)) ? codeType : 1;
   codeType = Math.floor(Number(codeType));
@@ -49,7 +50,7 @@ exports.getCountryCodes = function (codeType, cb) {
     , cTypeNames = [ 'numCode', 'code_2', 'code_3' ]
     , codes = [];
 
-  cb = cb || utils.isFunction(codeType) ? codeType : noop;
+  cb = cb || (utils.isFunction(codeType) ? codeType : noop);
 
   codeType = (codeType && !utils.isFunction(codeType)) ? codeType : 2;
   codeType = Math.floor(Number(codeType));
@@ -72,7 +73,7 @@ exports.languageCodeExists = function (code) {
   code = code.toLowerCase();
   for (var i = 1; i < 4; i++) {
     codes = exports.getLanguageCodes(i);
-    exists = _.indexOf(codes, code) != -1;
+    exists = _.indexOf(codes, code) !== -1;
     if (exists) break;
   }
 
@@ -87,7 +88,7 @@ exports.countryCodeExists = function (code) {
   code = code.toUpperCase();
   for (var i = 1; i < 4; i++) {
     codes = exports.getCountryCodes(i);
-    exists = _.indexOf(codes, code) != -1;
+    exists = _.indexOf(codes, code) !== -1;
     if (exists) break;
   }
 
@@ -106,15 +107,15 @@ exports.getCountry  = function (code, cb, noLangInfo) {
   cb = cb || noop;
   code = code.toUpperCase();
 
-  if (code.length == 2) {
+  if (code.length === 2) {
     codeFld = 'code_2';
-  } else if (code.length == 3) {
+  } else if (code.length === 3) {
     codeFld = 'code_3';
   }
 
   if (codeFld) {
     country = _.find(countries, function (c) {
-      return c[codeFld] == code;
+      return c[codeFld] === code;
     });
     if (!country) {
       return cb('There is no country with code "' + code + '"');
@@ -146,9 +147,9 @@ exports.getLanguage = function (code, cb, noCountryInfo) {
   }
   code = code.toLowerCase();
 
-  if (code.length == 2) {
+  if (code.length === 2) {
     codeFld.push('iso639_1');
-  } else if (code.length == 3) {
+  } else if (code.length === 3) {
     codeFld.push('iso639_2');
     codeFld.push('iso639_2en');
     codeFld.push('iso639_3');
@@ -157,7 +158,7 @@ exports.getLanguage = function (code, cb, noCountryInfo) {
   if (codeFld) {
     for (var i = 0; i < codeFld.length; i++) {
       language = _.find(languages, function (l) {
-        return l[codeFld[i]] == code;
+        return l[codeFld[i]] === code;
       });
       if (language) break;
     }
@@ -187,7 +188,7 @@ exports.getCountryLanguages = function (code, cb) {
     if (err) return cb(err);
     _.each(country.languages, function (l) {
       codes.push({
-          iso639_1: l.iso639_1
+        iso639_1: l.iso639_1
         , iso639_2: l.iso639_2en
         , iso639_3: l.iso639_3
       });
@@ -205,7 +206,7 @@ exports.getLanguageCountries = function (code, cb) {
     if (err) return cb(err);
     _.each(language.countries, function (c) {
       codes.push({
-          code_2: c.code_2
+        code_2: c.code_2
         , code_3: c.code_3
         , numCode: c.numCode
       });
@@ -252,14 +253,14 @@ exports.getLanguageFamilyMembers = function (family, cb) {
   family = family.toLowerCase();
 
   check = _.find(data.languageFamilies, function (f) {
-    return f.toLowerCase() == family;
+    return f.toLowerCase() === family;
   });
   if (!check) {
     return cb('There is no language family "' + family + '"');
   }
 
   members = _.filter(languages, function (l) {
-    return l.family.toLowerCase() == family;
+    return l.family.toLowerCase() === family;
   });
   _.each(members, function (l) {
     ret.push(exports.getLanguage(l.iso639_3));
@@ -280,4 +281,4 @@ exports.getLocales = function (mode) {
     }
   });
   return ret;
-}
+};
