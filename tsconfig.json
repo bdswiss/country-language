@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2020",
+        "noEmit": true,
+        "strict": true,
+        "allowJs": true,
+        "checkJs": true
+    },
+    "include": [
+        "test.js"
+    ],
+    "exclude": [
+        "node_modules",
+        "index.js"
+    ]
+}

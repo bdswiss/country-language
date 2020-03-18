@@ -31,7 +31,7 @@ console.log('~~~~~~~~~~~~~ getLanguageFamilyMembers');
 console.log(JSON.stringify(lib.getLanguageFamilyMembers('Austronesian'), null, 2));
 
 console.log('~~~~~~~~~~~~~ getLanguageCodes');
-console.log(JSON.stringify(lib.getLanguageCodes('3'), null, 2));
+console.log(JSON.stringify(lib.getLanguageCodes(3), null, 2));
 
 console.log('~~~~~~~~~~~~~ getCountryCodes');
 console.log(JSON.stringify(lib.getCountryCodes(), null, 2));
