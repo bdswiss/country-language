@@ -6,7 +6,7 @@
   "types": "index.d.ts",
   "dependencies": {
     "underscore": "^1.13.1",
-    "underscore.deep": "^0.5.1"
+    "underscore.deep": "~0.5.1"
   },
   "devDependencies": {
     "@types/node": "^13.9.1",
